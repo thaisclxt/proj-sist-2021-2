@@ -1,16 +1,28 @@
-# pscomidas
+# Relatório - Grupo 1
+Líder:
+- [Thaís Faustino Calixto](https://github.com/thaisclxt)
 
-A new Flutter project.
+Integrantes:
+- [Thaís Faustino Calixto](https://github.com/thaisclxt)
+- [Milena Carneiro Rios de Oliveira](https://github.com/milenacrios)
+- [Eric Jonai Costa Souza](https://github.com/Ericboo)
+- [Nathan Machado dos Santos](https://github.com/nathans4ntos)
+- [Aline Rose Alencar Santos](https://github.com/alineralncs)
+- [Edmundo Paulino Pereira Filho](https://github.com/mdmundo)
+- [Marcos Antonio Costa Filho](https://github.com/marcos1079)
 
-## Getting Started
+</br>
 
-This project is a starting point for a Flutter application.
+## Iteração 3 - 11/10 à 25/10
+### Reunião com líderes de grupo - 12/11
+- Atribuição de 2 Stories para cada grupo, nosso grupo ficou com:
+  - R08 - [Lojista] Cadastrar Empresa
+  - R09 - [Lojista] Gerenciar Empresa
 
-A few resources to get you started if this is your first Flutter project:
+### Reunião interna com o grupo - 13/11
+- Atribuição de tarefas para cada integrante do grupo.
+  - T01 - [Front-end] - Implementar a 1ª Página de cadastro, baseando na imagem _cadastro1.png_ ( @ericjonaicostasouza e @edmundopaulino  - xx/xx ) 
+  - T02 - [Front-end] - Implementar a 2ª Página de cadastro, baseando nas imagens _cadastro3.png_ e _cadastro4.png_ ( @thaisclxt  e @marcosantoniocostafilho1  - xx/xx )
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  - T03 - [Back-end] - Conectar T01 e T02 com o Mobx/Firebase ( @nathanmachado10  e @milena_rios  - xx/xx )
+  - T04 - [Front-end] - Elaborar planos para o lojista, baseado na imagem _cadastro2.png_ e integrar T04 com T01 ( @alinerosealencarsantos  - xx/xx )
