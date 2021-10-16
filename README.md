@@ -32,16 +32,17 @@ Integrantes:
 
 ## Passos para a elaboração do T04
 - Elaboração dos planos para lojistas 
+<hr>
     Plano Básico:
     Mensalidade de R$100,00 se o faturamento for maior que R$1.000
     Entrega feita pela loja
     Comissão de 20% para a loja
 
-    Plano Entrega:
-    Mensalidade de R$80,00 se o faturamento for maior que R$1.000
-    Entrega feita por entregadores do ifood
-    Comissão de 35% para a loja
-
+   Plano Entrega:
+   Mensalidade de R$80,00 se o faturamento for maior que R$1.000
+   Entrega feita por entregadores do ifood
+   Comissão de 35% para a loja
+<hr>
 - Criação da branch T04/feature/plans (que diz respeito aos cards dos planos para os lojistas)
 - Criação dos cards com as informações
 - Criação dos cards com responsividade
