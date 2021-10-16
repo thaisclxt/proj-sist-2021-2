@@ -28,7 +28,11 @@ Integrantes:
           * No dia 15/10, implementei a conexão da T01 com firebase, armazenando os dados sobre o proprietário da empresa. ([Milena Carneiro Rios de Oliveira](https://github.com/milenacrios))
   - T04 - [Front-end] - Elaborar planos para o lojista, baseado na imagem _cadastro2.png_ e integrar T04 com T01 ( @alinerosealencarsantos  - xx/xx )
 
-
+### Cronograma de atividades
+| Data | Tarefa | Atividade | Aluno |
+| :-: | :-: | :-: | :-:  |
+| 15/10 | T02 | Coworking - criação de TextFormField para a 2ª tela de cadastro | Thaís e Marcos |
+| 16/10 | T02 | Implementação da AppBar e otimização de código | Thaís
 
 ## Passos para a elaboração do T04
 - Elaboração dos planos para lojistas 
