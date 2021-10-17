@@ -32,7 +32,9 @@ Integrantes:
 | Data | Tarefa | Atividade | Aluno |
 | :-: | :-: | :-: | :-:  |
 | 15/10 | T02 | Coworking - criação de TextFormField para a 2ª tela de cadastro | Thaís e Marcos |
-| 16/10 | T02 | Implementação da AppBar e otimização de código | Thaís
+| 16/10 | T02 | Implementação da AppBar, de todos os campos para o cadastro e otimização do código | Thaís |
+| 17/10 | T01 | [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/7) enviado para revisão | Eric |
+| 17/10 | T01 | Revisão e aprovação do [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/7) | Thaís
 
 ## Passos para a elaboração do T04
 - Elaboração dos planos para lojistas 
