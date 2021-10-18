@@ -14,26 +14,29 @@ Integrantes:
 </br>
 
 ## Iteração 3 - 11/10 à 25/10
-### Reunião com líderes de grupo - 12/11
+### Reunião com líderes de grupo - 12/10
 - Atribuição de 2 Stories para cada grupo, nosso grupo ficou com:
   - R08 - [Lojista] Cadastrar Empresa
   - R09 - [Lojista] Gerenciar Empresa
 
-### Reunião interna com o grupo - 13/11
+### Reunião interna com o grupo - 13/10
 - Atribuição de tarefas para cada integrante do grupo.
-  - T01 - [Front-end] - Implementar a 1ª Página de cadastro, baseando na imagem _cadastro1.png_ ( @ericjonaicostasouza e @edmundopaulino  - xx/xx ) 
+  - T01 - [Front-end] - Implementar a 1ª Página de cadastro, baseando na imagem _cadastro1.png_ ( @ericjonaicostasouza e @edmundopaulino  - 17/10 ) 
   - T02 - [Front-end] - Implementar a 2ª Página de cadastro, baseando nas imagens _cadastro3.png_ e _cadastro4.png_ ( @thaisclxt  e @marcosantoniocostafilho1  - xx/xx )
 
   - T03 - [Back-end] - Conectar T01 e T02 com o Mobx/Firebase ( @nathanmachado10  e @milena_rios  - xx/xx )
          
-  - T04 - [Front-end] - Elaborar planos para o lojista, baseado na imagem _cadastro2.png_ e integrar T04 com T01 ( @alinerosealencarsantos  - xx/xx )
+  - T04 - [Front-end] - Elaborar planos para o lojista, baseado na imagem _cadastro2.png_ e integrar T04 com T01 ( @alinerosealencarsantos  - 17/10 )
 
 ### Cronograma de atividades
 | Data | Tarefa | Atividade | Aluno |
 | :-: | :-: | :-: | :-:  |
+| 14/10 | T01 | Criação do formulário de registro necessário para T03 | Eric |
 | 15/10 | T03 | Implementação da conexão da T01 com firebase, armazenando os dados sobre o proprietário da empresa | Milena |
 | 15/10 | T02 | Coworking - criação de TextFormField para a 2ª tela de cadastro | Thaís e Marcos |
 | 16/10 | T02 | Implementação da AppBar, de todos os campos para o cadastro e otimização do código | Thaís |
+| 16/10 | T01 | Implementação da appbar | Eric |
+| 17/10 | T01 | Correções finais para pull request e ajustada a responsividade da página | Eric |
 | 17/10 | T01 | [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/7) enviado para revisão | Eric |
 | 17/10 | T01 | Revisão e aprovação do [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/7) | Thaís |
 | 17/10 | T03 | Implementação do mobx da T01 | Milena |
