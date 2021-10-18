@@ -39,6 +39,7 @@ Integrantes:
 | 16/10 | T02 | Implementação da AppBar, de todos os campos para o cadastro e otimização do código | Thaís |
 | 16/10 | T01 | Implementação da appbar | Eric |
 | 16/10 | T04 | Criação dos cards com as informações e responsividade | Aline |
+| 16/10 | T03 | Substituição da streambuilder por implementação em mobx na homepage | Nathan |
 | 17/10 | T01 | Correções finais para pull request e ajustada a responsividade da página | Eric |
 | 17/10 | T01 | [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/7) enviado para revisão | Eric |
 | 17/10 | T01 | Revisão e aprovação do [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/7) | Thaís |
