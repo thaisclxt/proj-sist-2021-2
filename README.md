@@ -65,6 +65,7 @@ Integrantes:
 | 20/10 | T03 | Correção de conflitos no merge e mais algumas refatorações. | Nathan |
 | 20/10 | T02 | Correções feitas seguindo os comentários no [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/9) | Thaís |
 | 21/10 | T02 | Aprovação do [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/9) | Eric |
+| 21/10 | T03 | [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/10) enviado para revisão | Nathan |
 
 </br>
 
@@ -72,3 +73,4 @@ Integrantes:
 | Data | Tarefa | Atividade | Aluno |
 | :-: | :-: | :-: | :-:  |
 | 20/10 | T01 | Elaboração do escopo da página Gerenciar Empresa | Todos |
+
