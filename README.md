@@ -47,5 +47,7 @@ Integrantes:
 | 17/10 | T03 | Implementação do mobx da T01 | Milena |
 | 18/10 | T04 | Integração do T01 com T04 | Aline |
 | 18/10 | T01 | [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/8) enviado para revisão | Aline |
-| 19/10 | T02 | Implementação do MobX nas categorias | Thaís |
+| 19/10 | T02 | Implementação do MobX nas categorias e correções de campos | Thaís |
 | 19/10 | T04 | Revisão e aprovação do [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/8) | Thaís |
+| 20/10 | T02 | Implementação do AlertDialog | Thaís |
+| 20/10 | T02 | [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/9) enviado para revisão | Thaís |
