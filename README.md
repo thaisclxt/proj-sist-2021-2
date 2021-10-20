@@ -39,6 +39,7 @@ Integrantes:
 | 16/10 | T01 | Implementação da appbar | Eric |
 | 16/10 | T04 | Criação dos cards com as informações e responsividade | Aline |
 | 16/10 | T03 | Substituição da streambuilder por implementação em mobx na homepage | Nathan |
+| 17/10 | T01 | Adição de texto e imagem à página de cadastro de lojas | Edmundo |
 | 17/10 | T01 | Correções finais para pull request e ajustada a responsividade da página | Eric |
 | 17/10 | T01 | [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/7) enviado para revisão | Eric |
 | 17/10 | T01 | Revisão e aprovação do [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/7) | Thaís |
@@ -51,3 +52,5 @@ Integrantes:
 | 19/10 | T04 | Revisão e aprovação do [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/8) | Thaís |
 | 20/10 | T02 | Implementação do AlertDialog | Thaís |
 | 20/10 | T02 | [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/9) enviado para revisão | Thaís |
+| 20/10 | T03 | Implementação do mobx e firebase na T02 e refatoração de algumas implementações de mobx anteriores. | Nathan |
+| 20/10 | T03 | correção de conflitos no merge e mais algumas refatorações. | Nathan |
