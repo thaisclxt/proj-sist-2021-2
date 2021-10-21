@@ -20,13 +20,21 @@ Integrantes:
   - R09 - [Lojista] Gerenciar Empresa
 
 ### Reunião interna com o grupo - 13/10
-- Atribuição de tarefas para cada integrante do grupo.
-  - T01 - [Front-end] - Implementar a 1ª Página de cadastro, baseando na imagem _cadastro1.png_ ( @ericjonaicostasouza e @edmundopaulino  - 17/10 ) 
-  - T02 - [Front-end] - Implementar a 2ª Página de cadastro, baseando nas imagens _cadastro3.png_ e _cadastro4.png_ ( @thaisclxt  e @marcosantoniocostafilho1  - xx/xx )
-  - T03 - [Back-end] - Conectar T01 e T02 com o Mobx/Firebase ( @nathanmachado10  e @milena_rios  - xx/xx )
-  - T04 - [Front-end] - Elaborar planos para o lojista, baseado na imagem _cadastro2.png_ e integrar T04 com T01 ( @alinerosealencarsantos  - 17/10 )
+- Atribuição de tarefas, referente ao R08, para cada integrante do grupo.
+  - [X] T01 - [Front-end] - Implementar a 1ª Página de cadastro, baseando na imagem _cadastro1.png_ ( @ericjonaicostasouza e @edmundopaulino  - 17/10 ) 
+  - [X] T02 - [Front-end] - Implementar a 2ª Página de cadastro, baseando nas imagens _cadastro3.png_ e _cadastro4.png_ ( @thaisclxt  e @marcosantoniocostafilho1  - 21/10 )
+  - [ ] T03 - [Back-end] - Conectar T01 e T02 com o Mobx/Firebase ( @nathanmachado10  e @milena_rios  - xx/xx )
+  - [X] T04 - [Front-end] - Elaborar planos para o lojista, baseado na imagem _cadastro2.png_ e integrar T04 com T01 ( @alinerosealencarsantos  - 18/10 )
 
-### Cronograma de atividades
+### Reunião interna com o grupo - 20/10
+- Atribuição de tarefas, referente ao R09, para cada integrante do grupo.
+  - [X] T01 - [Front-end] Elaborar o escopo da página _Gerenciar Empresa_ ( @todos - 20/10)
+  - [ ] T02 - [Front-end] Implementar a SideBar, baseando na imagem _home.jpg_ em anexo ( @milena_rios )
+  - [ ] T03 - [Back-end] Fazer Upload da foto de perfil, ao clicar no nome da loja na SideBar ( @ericjonaicostasouza e @nathanmachado10 )
+  - [ ] T04 - [Front-end e Back-end] Implementar a página de produtos, basenado na imagem _home.jpg_ em anexo ( @alinerosealencarsantos  e @thaisclxt )
+  - [ ] T05 - [Back-end] Implementar o botão para fechar ou abrir loja na SideBar, usando MobX ( @edmundopaulino e @marcosantoniocostafilho1  )
+
+### Cronograma de atividades R08
 | Data | Tarefa | Atividade | Aluno |
 | :-: | :-: | :-: | :-:  |
 | 14/10 | T01 | Criação do formulário de registro necessário para T03 | Eric |
@@ -52,5 +60,15 @@ Integrantes:
 | 19/10 | T04 | Revisão e aprovação do [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/8) | Thaís |
 | 20/10 | T02 | Implementação do AlertDialog | Thaís |
 | 20/10 | T02 | [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/9) enviado para revisão | Thaís |
+| 20/10 | T01 | Revisão e comentários para correção do [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/9) | Eric |
 | 20/10 | T03 | Implementação do mobx e firebase na T02 e refatoração de algumas implementações de mobx anteriores. | Nathan |
-| 20/10 | T03 | correção de conflitos no merge e mais algumas refatorações. | Nathan |
+| 20/10 | T03 | Correção de conflitos no merge e mais algumas refatorações. | Nathan |
+| 20/10 | T02 | Correções feitas seguindo os comentários no [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/9) | Thaís |
+| 21/10 | T02 | Aprovação do [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/9) | Eric |
+
+</br>
+
+### Cronograma de atividades R09
+| Data | Tarefa | Atividade | Aluno |
+| :-: | :-: | :-: | :-:  |
+| 20/10 | Elaboração do escopo da página Gerenciar Empresa | Todos |
