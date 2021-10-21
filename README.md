@@ -71,4 +71,4 @@ Integrantes:
 ### Cronograma de atividades R09
 | Data | Tarefa | Atividade | Aluno |
 | :-: | :-: | :-: | :-:  |
-| 20/10 | Elaboração do escopo da página Gerenciar Empresa | Todos |
+| 20/10 | T01 | Elaboração do escopo da página Gerenciar Empresa | Todos |
