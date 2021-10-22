@@ -73,4 +73,6 @@ Integrantes:
 | Data | Tarefa | Atividade | Aluno |
 | :-: | :-: | :-: | :-:  |
 | 20/10 | T01 | Elaboração do escopo da página Gerenciar Empresa | Todos |
+| 22/10 | T04 | Criação do grid da página de produtos com card estáticos e responsividade | Aline |
+
 
