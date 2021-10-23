@@ -79,3 +79,5 @@ Integrantes:
 | 20/10 | T01 | Elaboração do escopo da página Gerenciar Empresa | Todos |
 | 22/10 | T04 | Criação do grid da página de produtos com card estáticos e responsividade | Aline |
 | 22/10 | T04 | Correções no código e na branch e implementação da navegação modular | Thaís
+| 22/10 | T04 | Mudanças: Criação de uma classe para os cards| Aline |
+| 23/10 | T04 | Criação do widget Card para adicionar novos produtos e inclusão do nome da página | Aline |
