@@ -23,7 +23,7 @@ Integrantes:
 - Atribuição de tarefas, referente ao R08, para cada integrante do grupo.
   - [X] T01 - [Front-end] - Implementar a 1ª Página de cadastro, baseando na imagem _cadastro1.png_ ( @ericjonaicostasouza e @edmundopaulino  - 17/10 ) 
   - [X] T02 - [Front-end] - Implementar a 2ª Página de cadastro, baseando nas imagens _cadastro3.png_ e _cadastro4.png_ ( @thaisclxt  e @marcosantoniocostafilho1  - 21/10 )
-  - [ ] T03 - [Back-end] - Conectar T01 e T02 com o Mobx/Firebase ( @nathanmachado10  e @milena_rios  - xx/xx )
+  - [X] T03 - [Back-end] - Conectar T01 e T02 com o Mobx/Firebase ( @nathanmachado10  e @milena_rios  - 21/10 )
   - [X] T04 - [Front-end] - Elaborar planos para o lojista, baseado na imagem _cadastro2.png_ e integrar T04 com T01 ( @alinerosealencarsantos  - 18/10 )
 
 ### Reunião interna com o grupo - 20/10
@@ -31,7 +31,7 @@ Integrantes:
   - [X] T01 - [Front-end] Elaborar o escopo da página _Gerenciar Empresa_ ( @todos - 20/10)
   - [ ] T02 - [Front-end] Implementar a SideBar, baseando na imagem _home.jpg_ em anexo ( @milena_rios )
   - [ ] T03 - [Back-end] Fazer Upload da foto de perfil, ao clicar no nome da loja na SideBar ( @ericjonaicostasouza e @nathanmachado10 )
-  - [ ] T04 - [Front-end e Back-end] Implementar a página de produtos, basenado na imagem _home.jpg_ em anexo ( @alinerosealencarsantos  e @thaisclxt )
+  - [ ] T04 - [Front-end] Implementar a página de produtos, basenado na imagem _home.jpg_ em anexo ( @alinerosealencarsantos  e @thaisclxt )
   - [ ] T05 - [Back-end] Implementar o botão para fechar ou abrir loja na SideBar, usando MobX ( @edmundopaulino e @marcosantoniocostafilho1  )
 
 ### Cronograma de atividades R08
@@ -66,6 +66,10 @@ Integrantes:
 | 20/10 | T02 | Correções feitas seguindo os comentários no [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/9) | Thaís |
 | 21/10 | T02 | Aprovação do [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/9) | Eric |
 | 21/10 | T03 | [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/10) enviado para revisão | Nathan |
+| 21/10 | T03 | Aprovação do [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/10) | Thaís e Eric |
+| 21/10 | R08 | [Pull Request](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2021-2/pull/12) enviado para a 1ª revisão | Thaís |
+| 22/10 | R08 | Requisição de correções do [Pull Request](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2021-2/pull/12) | Daniel (Grupo 2) |
+| 22/10 | R08 | Correções feitas | Thaís e Eric |
 
 </br>
 
@@ -74,5 +78,4 @@ Integrantes:
 | :-: | :-: | :-: | :-:  |
 | 20/10 | T01 | Elaboração do escopo da página Gerenciar Empresa | Todos |
 | 22/10 | T04 | Criação do grid da página de produtos com card estáticos e responsividade | Aline |
-
-
+| 22/10 | T04 | Correções no código e na branch e implementação da navegação modular | Thaís
