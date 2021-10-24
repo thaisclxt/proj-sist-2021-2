@@ -89,6 +89,7 @@ Integrantes:
 | 23/10 | T04 | Otimização do código e mudança do nome da página | Thaís |
 | 24/10 | T02 | Componentização dos elementos - classe para cada componente (otimização de código) | Milena |
 | 24/10 | T02 | Implementação da responsividade do side_bar | Milena |
-| 24/10 | T02 | [Pull Request] (https://github.com/thaisclxt/proj-sist-2021-2/pull/11) enviado para revisão | Milena |
+| 24/10 | T02 | [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/11) enviado para revisão | Milena |
 | 24/10 | T04 | Implementação do card do produto e refatoração do código | Thaís |
 | 24/10 | T04 | [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/12) enviado para a 1ª revisão | Thaís |
+| 24/10 | T05 | Criação do backend para a funcionalidade de abrir e fechar a loja | Edmundo |
