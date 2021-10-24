@@ -70,6 +70,9 @@ Integrantes:
 | 21/10 | R08 | [Pull Request](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2021-2/pull/12) enviado para a 1ª revisão | Thaís |
 | 22/10 | R08 | Requisição de correções do [Pull Request](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2021-2/pull/12) | Daniel (Grupo 2) |
 | 22/10 | R08 | Correções feitas | Thaís e Eric |
+| 24/10 | R08 | Correções feitas | Nathan |
+| 24/10 | R08 | [Pull Request](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2021-2/pull/12) enviado para a 2ª revisão | Nathan |
+
 
 </br>
 
