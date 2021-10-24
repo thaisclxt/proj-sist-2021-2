@@ -81,11 +81,14 @@ Integrantes:
 | :-: | :-: | :-: | :-:  |
 | 20/10 | T01 | Elaboração do escopo da página Gerenciar Empresa | Todos |
 | 22/10 | T04 | Criação do grid da página de produtos com card estáticos e responsividade | Aline |
-| 22/10 | T04 | Correções no código e na branch e implementação da navegação modular | Thaís
+| 22/10 | T04 | Correções no código e na branch e implementação da navegação modular | Thaís |
 | 22/10 | T04 | Mudanças: Criação de uma classe para os cards| Aline |
 | 23/10 | T04 | Criação do widget Card para adicionar novos produtos e inclusão do nome da página | Aline |
 | 23/10 | T02 | Criação do sideBar com logo versão branca + classe para os TextButtons | Milena |
 | 23/10 | T02 | Implementação de todos os botões do side_bar | Milena |
+| 23/10 | T04 | Otimização do código e mudança do nome da página | Thaís |
 | 24/10 | T02 | Componentização dos elementos - classe para cada componente (otimização de código) | Milena |
 | 24/10 | T02 | Implementação da responsividade do side_bar | Milena |
 | 24/10 | T02 | [Pull Request] (https://github.com/thaisclxt/proj-sist-2021-2/pull/11) enviado para revisão | Milena |
+| 24/10 | T04 | Implementação do card do produto e refatoração do código | Thaís |
+| 24/10 | T04 | [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/12) enviado para a 1ª revisão | Thaís |
