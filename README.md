@@ -93,4 +93,4 @@ Integrantes:
 | 24/10 | T04 | Implementação do card do produto e refatoração do código | Thaís |
 | 24/10 | T04 | [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/12) enviado para a 1ª revisão | Thaís |
 | 24/10 | T05 | Criação do backend para a funcionalidade de abrir e fechar a loja | Edmundo |
-| 24/10 | T02 | [Pull Request] (https://github.com/thaisclxt/proj-sist-2021-2/pull/13) enviado para a 2ª revisão | Milena |
+| 24/10 | T02 | [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/13) enviado para a 2ª revisão | Milena |
