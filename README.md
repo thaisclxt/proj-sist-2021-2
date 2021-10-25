@@ -29,9 +29,9 @@ Integrantes:
 ### Reunião interna com o grupo - 20/10
 - Atribuição de tarefas, referente ao R09, para cada integrante do grupo.
   - [X] T01 - [Front-end] Elaborar o escopo da página _Gerenciar Empresa_ ( @todos - 20/10)
-  - [ ] T02 - [Front-end] Implementar a SideBar, baseando na imagem _home.jpg_ em anexo ( @milena_rios )
+  - [X] T02 - [Front-end] Implementar a SideBar, baseando na imagem _home.jpg_ em anexo ( @milena_rios - 24/10)
   - [ ] T03 - [Back-end] Fazer Upload da foto de perfil, ao clicar no nome da loja na SideBar ( @ericjonaicostasouza e @nathanmachado10 )
-  - [ ] T04 - [Front-end] Implementar a página de produtos, basenado na imagem _home.jpg_ em anexo ( @alinerosealencarsantos  e @thaisclxt )
+  - [X] T04 - [Front-end] Implementar a página de produtos, basenado na imagem _home.jpg_ em anexo ( @alinerosealencarsantos  e @thaisclxt - 24/10)
   - [ ] T05 - [Back-end] Implementar o botão para fechar ou abrir loja na SideBar, usando MobX ( @edmundopaulino e @marcosantoniocostafilho1  )
 
 ### Cronograma de atividades R08
@@ -90,7 +90,10 @@ Integrantes:
 | 24/10 | T02 | Componentização dos elementos - classe para cada componente (otimização de código) | Milena |
 | 24/10 | T02 | Implementação da responsividade do side_bar | Milena |
 | 24/10 | T02 | [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/11) enviado para a 1º revisão | Milena |
+| 24/10 | T02 | Revisão e pedido de correções no [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/11) | Thaís |
 | 24/10 | T04 | Implementação do card do produto e refatoração do código | Thaís |
 | 24/10 | T04 | [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/12) enviado para a 1ª revisão | Thaís |
 | 24/10 | T05 | Criação do backend para a funcionalidade de abrir e fechar a loja | Edmundo |
 | 24/10 | T02 | [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/13) enviado para a 2ª revisão | Milena |
+| 24/10 | T02 | Revisão e aprovação do [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/13) | Thaís |
+| 24/10 | T04 | Revisão, comentários e aprovação do [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/12) | Eric |
