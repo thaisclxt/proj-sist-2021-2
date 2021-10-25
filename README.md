@@ -97,3 +97,4 @@ Integrantes:
 | 24/10 | T02 | [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/13) enviado para a 2ª revisão | Milena |
 | 24/10 | T02 | Revisão e aprovação do [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/13) | Thaís |
 | 24/10 | T04 | Revisão, comentários e aprovação do [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/12) | Eric |
+| 25/10 | T05 | Implementação do mobx para botão de alternância | Edmundo |
