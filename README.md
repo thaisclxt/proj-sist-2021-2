@@ -110,3 +110,43 @@ Integrantes:
 ## Observações referente à 3ª Iteração - R08 e R09
 - Ao iniciar as atividades do requisito R09, o R08 ainda estava em revisão. Ao concluir o R09, o R08 permaneceu em revisão e como criamos um Pull Reques de merge da `develop` para `upstream:develop`, não foi possível criar um novo Pull Request para o R09, já que as mudanças deste estavam na `develop`. Assim, os dois requisitos estão no mesmo Pull Request. Pedimos desculpas pela bagunça. Isso não ocorrerá novamente.
 - É inaceitável considerar que a data de devolução da 2ª revisão do R08 foi dia 24/10 e que o status é Reprovado, já que não há uma conclusão final no Pull Request e observações que seriam melhor detalhadas após a aula, não foram.
+
+</br>
+
+## Iteração 4 - 25/10 à 22/11
+- 28/10 - Atribuição de 2 requisitos:
+  - R12 - [Lojista] Editar Perfil
+    - [Card no Trello](https://trello.com/c/uVQblGa5/26-r12-lojista-editar-perfil)
+  - R13 - [Lojista] Administrar dados sigilosos
+    - [Card no Trello](https://trello.com/c/EzHst14y/27-r13-lojista-administrar-dados-sigilosos)
+
+- 28/10 - Atribuição de tarefas, referente ao R12, para cada integrante do grupo.
+  - [x] T01 - [Front-end] Elaborar o escopo da área de _Editar Perfil_ (@thaisclxt | 28/10)
+  - [ ] T02 - [Front-end e Back-end/Firebase] - Adicionar/editar foto de perfil (@ericjonaicostasouza | xx/xx)
+  - [ ] T03 - [Front-end] - Editar o nome da loja e formulário com os campos telefone da loja, tempo de preparo e taxa de entrega (@nathanmachado10 | xx/xx)
+  - [ ] T04 - [Front-end e MobX] - Adicionar o dropDownButton para categorias e o botão de confirmar cadastro (@alinerosealencarsantos | xx/xx)
+  - [ ] T05 - [MobX] - Usar MobX nas tarefas T02 e T03 (@edmundopaulino | xx/xx)
+  - [ ] T06 - [Firebase] - Editar os campos modificados em T03 e T04 no banco de dados (@thaisclxt  e @milena_rios | xx/xx)
+  - [ ] T07 - [Front-end e MobX] - Criar navegação para as próximas sessões do perfil (@marcosantoniocostafilho1 | xx/xx)
+
+- 28/10 - Atribuição de tarefas, referente ao R13, para cada integrante do grupo.
+  - [x] T01 - [Front-end] Elaborar o escopo da área de _Editar Perfil_ (@thaisclxt | 28/10)
+  - [ ] T02 - [Front-end] - Criar uma seção para o endereço, com os campos CEP, cidade, estado, bairro, número, complemento e botão para confirmar, como na imagem _endereço.png_ (@ericjonaicostasouza | xx/xx)
+  - [ ] T03 - [Front-end] - Criar uma seção para gerenciamento, com os campos parra edição do nome, celular, email, senha e botão para confirmar, como na imagem _gerenciamento.png_ (@nathanmachado10 | xx/xx)
+  - [ ] T04 - [MobX] - Usar MobX nas tarefas T02 e T03 (@edmundopaulino | xx/xx)
+  - [ ] T05 - [Firebase] - Editar os campos de T02 e T03 no banco de dados (@thaisclxt  e @milena_rios | xx/xx)
+  - [ ] T06 - [Front-end e MobX] - Criar navegação para as próximas sessões do perfil e sessão anterior (@marcosantoniocostafilho1 | xx/xx)
+  - [ ] T07 - [Front-end e Back-end] - Adicionar a opção _Plano_ na SideBar. Ao clicar em _Plano_ deve ser possível visualizar as imagens dos dois planos e um botão de edição caso o usuário deseja trocar de plano (@alinerosealencarsantos | xx/xx)
+
+### Cronograma de atividades R12
+| Data | Tarefa | Atividade | Aluno |
+| :-: | :-: | :-: | :-:  |
+| 28/10 | T01 | Elaborar o escopo da área de _Editar Perfil_ | Thaís |
+
+
+</br>
+
+### Cronograma de atividades R13
+| Data | Tarefa | Atividade | Aluno |
+| :-: | :-: | :-: | :-:  |
+| 28/10 | T01 | Elaborar o escopo da área de _Editar Perfil_ | Thaís |
