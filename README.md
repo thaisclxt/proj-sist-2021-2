@@ -30,9 +30,9 @@ Integrantes:
 - Atribuição de tarefas, referente ao R09, para cada integrante do grupo.
   - [X] T01 - [Front-end] Elaborar o escopo da página _Gerenciar Empresa_ ( @todos - 20/10)
   - [X] T02 - [Front-end] Implementar a SideBar, baseando na imagem _home.jpg_ em anexo ( @milena_rios - 24/10)
-  - [ ] T03 - [Back-end] Fazer Upload da foto de perfil, ao clicar no nome da loja na SideBar ( @ericjonaicostasouza e @nathanmachado10 )
+  - [X] T03 - [Back-end] Fazer Upload da foto de perfil, ao clicar no nome da loja na SideBar ( @ericjonaicostasouza e @nathanmachado10 - 25/09 )
   - [X] T04 - [Front-end] Implementar a página de produtos, basenado na imagem _home.jpg_ em anexo ( @alinerosealencarsantos  e @thaisclxt - 24/10)
-  - [ ] T05 - [Back-end] Implementar o botão para fechar ou abrir loja na SideBar, usando MobX ( @edmundopaulino e @marcosantoniocostafilho1  )
+  - [X] T05 - [Back-end] Implementar o botão para fechar ou abrir loja na SideBar, usando MobX ( @edmundopaulino e @marcosantoniocostafilho1 - 25/10 )
 
 ### Cronograma de atividades R08
 | Data | Tarefa | Atividade | Aluno |
@@ -98,3 +98,12 @@ Integrantes:
 | 24/10 | T02 | Revisão e aprovação do [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/13) | Thaís |
 | 24/10 | T04 | Revisão, comentários e aprovação do [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/12) | Eric |
 | 25/10 | T05 | Implementação do mobx para botão de alternância | Edmundo |
+| 25/10 | R09 | [Pull Request](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2021-2/pull/12) enviado para a 1ª revisão | Thaís |
+
+
+</br>
+
+## Observações referente à 3ª Iteração - R08 e R09
+- Ao iniciar as atividades do requisito R09, o R08 ainda estava em revisão. Ao concluir o R09, o R08 permaneceu em revisão e como criamos um Pull Reques de merge da `develop` para `upstream:develop`, não foi possível criar um novo Pull Request para o R09, já que as mudanças deste estavam na `develop`. Assim, os dois requisitos estão no mesmo Pull Request. Pedimos desculpas pela bagunça. Isso não ocorrerá novamente.
+- É inaceitável considerar que a data de devolução da 2ª revisão do R08 foi dia 24/10 e que o status é Reprovado, já que não há uma conclusão final no Pull Request e observações que seriam melhor detalhadas após a aula, não foram.
+
