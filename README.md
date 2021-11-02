@@ -80,6 +80,7 @@ Integrantes:
 | Data | Tarefa | Atividade | Aluno |
 | :-: | :-: | :-: | :-:  |
 | 20/10 | T01 | Elaboração do escopo da página Gerenciar Empresa | Todos |
+| 22/10 | T03 | Criação da área de upload | Eric |
 | 22/10 | T04 | Criação do grid da página de produtos com card estáticos e responsividade | Aline |
 | 22/10 | T04 | Correções no código e na branch e implementação da navegação modular | Thaís |
 | 22/10 | T04 | Mudanças: Criação de uma classe para os cards| Aline |
@@ -87,6 +88,7 @@ Integrantes:
 | 23/10 | T02 | Criação do sideBar com logo versão branca + classe para os TextButtons | Milena |
 | 23/10 | T02 | Implementação de todos os botões do side_bar | Milena |
 | 23/10 | T04 | Otimização do código e mudança do nome da página | Thaís |
+| 23/10 | T03 | backend e finalização | Eric |
 | 24/10 | T02 | Componentização dos elementos - classe para cada componente (otimização de código) | Milena |
 | 24/10 | T02 | Implementação da responsividade do side_bar | Milena |
 | 24/10 | T02 | [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/11) enviado para a 1º revisão | Milena |
@@ -122,7 +124,7 @@ Integrantes:
 
 - 28/10 - Atribuição de tarefas, referente ao R12, para cada integrante do grupo.
   - [x] T01 - [Front-end] Elaborar o escopo da área de _Editar Perfil_ (@thaisclxt | 28/10)
-  - [ ] T02 - [Front-end e Back-end/Firebase] - Adicionar/editar foto de perfil (@ericjonaicostasouza | xx/xx)
+  - [x] T02 - [Front-end e Back-end/Firebase] - Adicionar/editar foto de perfil (@ericjonaicostasouza | 30/10)
   - [ ] T03 - [Front-end] - Editar o nome da loja e formulário com os campos telefone da loja, tempo de preparo e taxa de entrega (@nathanmachado10 | xx/xx)
   - [ ] T04 - [Front-end e MobX] - Adicionar o dropDownButton para categorias e o botão de confirmar cadastro (@alinerosealencarsantos | xx/xx)
   - [ ] T05 - [MobX] - Usar MobX nas tarefas T02 e T03 (@edmundopaulino | xx/xx)
@@ -142,6 +144,10 @@ Integrantes:
 | Data | Tarefa | Atividade | Aluno |
 | :-: | :-: | :-: | :-:  |
 | 28/10 | T01 | Elaborar o escopo da área de _Editar Perfil_ | Thaís |
+| 28/10 | T02 | Criação das pastas e arquivos necessários | Eric |
+| 29/10 | T02 | Implementação do frontend e backend | Eric |
+| 30/10 | T02 | Finalização e envio do [pull request](https://github.com/thaisclxt/proj-sist-2021-2/pull/17)| Eric |
+| 01/11 | T02 | Aprovação do [pull request](https://github.com/thaisclxt/proj-sist-2021-2/pull/17) | Thais |
 
 
 </br>
