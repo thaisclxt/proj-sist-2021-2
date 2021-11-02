@@ -93,6 +93,9 @@ Integrantes:
 | 24/10 | T02 | Implementação da responsividade do side_bar | Milena |
 | 24/10 | T02 | [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/11) enviado para a 1º revisão | Milena |
 | 24/10 | T02 | Revisão e pedido de correções no [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/11) | Thaís |
+| 24/10 | T03 | Implementação da store | Nathan |
+| 24/10 | T03 | Adequação dos arquivos nos locais corretos | Nathan |
+| 24/10 | T03 | Otimização do código e correções menores | Nathan |
 | 24/10 | T04 | Implementação do card do produto e refatoração do código | Thaís |
 | 24/10 | T04 | [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/12) enviado para a 1ª revisão | Thaís |
 | 24/10 | T05 | Criação do backend para a funcionalidade de abrir e fechar a loja | Edmundo |
