@@ -151,6 +151,9 @@ Integrantes:
 | 29/10 | T02 | Implementação do frontend e backend | Eric |
 | 30/10 | T02 | Finalização e envio do [pull request](https://github.com/thaisclxt/proj-sist-2021-2/pull/17)| Eric |
 | 01/11 | T02 | Aprovação do [pull request](https://github.com/thaisclxt/proj-sist-2021-2/pull/17) | Thais |
+| 04/11 | T03 | Adição dos forms | Nathan |
+| 07/11 | T03 | botão de confirmar e melhorias visuais | Nathan |
+
 
 
 </br>
