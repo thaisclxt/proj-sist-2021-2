@@ -156,6 +156,7 @@ Integrantes:
 | 09/11 | T03 | correções menores e melhorias visuais | Nathan |
 | 09/11 | T03 | Envio do [pull request](https://github.com/thaisclxt/proj-sist-2021-2/pull/20)| Nathan |
 | 10/11 | T03 | Aprovação do [pull request](https://github.com/thaisclxt/proj-sist-2021-2/pull/20)| Eric |
+| 10/11 | T05 | Implementar gerência de estados | Edmundo |
 
 
 
