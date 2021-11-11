@@ -72,7 +72,12 @@ Integrantes:
 | 22/10 | R08 | Correções feitas | Thaís e Eric |
 | 24/10 | R08 | Correções feitas | Nathan |
 | 24/10 | R08 | [Pull Request](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2021-2/pull/12) enviado para a 2ª revisão | Nathan |
-
+| 28/10 | R08 | Requisição de correções do [Pull Request](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2021-2/pull/12) | Daniel (Grupo 2) |
+| 30/10 | R08 | Reunião com Daniel (Grupo 2) para esclarecer sobre alterações do nosso trabalho pelo grupo 2, revisão mal concluida e integração dos requisitos | Thaís, Milena e Eric |
+| 01/11 | R08 | [Pull Request](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2021-2/pull/12) enviado para a 3ª revisão | Thaís |
+| 03/11 | R08 | Requisição de correções do [Pull Request](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2021-2/pull/12) | Daniel (Grupo 2) |
+| 03/11 | R08 | [Pull Request](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2021-2/pull/12) enviado para a 4ª revisão | Nathan |
+| 07/11 | R08 | [Pull Request](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2021-2/pull/12) **APROVADO** | Daniel (Grupo 2) |
 
 </br>
 
@@ -107,7 +112,10 @@ Integrantes:
 | 25/10 | T03 | [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/15) enviado para a 1ª revisão | Eric |
 | 25/10 | T03 | Revisão e aprovação do [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/15) | Thaís |
 | 25/10 | T05 | Correções aplicadas e [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/14) enviado para a 2ª revisão | Edmundo |
+| 25/10 | T05 | Correções aplicadas e [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/14) aprovado | Thaís |
 | 25/10 | R09 | [Pull Request](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2021-2/pull/12) enviado para a 1ª revisão | Thaís |
+| 30/10 | R09 | Reunião com Daniel (Grupo 2) para esclarecer sobre alterações do nosso trabalho pelo grupo 2, revisão mal concluida e integração dos requisitos | Thaís, Milena e Eric |
+| 03/11 | R09 | [Pull Request](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2021-2/pull/12) **APROVADO** | Daniel (Grupo 2) |
 
 
 </br>
