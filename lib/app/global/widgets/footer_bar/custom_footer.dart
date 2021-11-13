@@ -29,10 +29,10 @@ class _CustomFooterState extends State<CustomFooter> {
     'iFood Empresas'
   ];
   final List<String> navigator = [
-    RestaurantRegisterModule.routeName + RestaurantRegisterPage.routeName,
+    'register/restaurant/page1',
     '',
     '',
-    RestaurantHomeModule.routeName + ProductPage.routeName,
+    'restaurant_home'
   ];
   final List<Buttons> social = [Buttons.Facebook, Buttons.Twitter];
   @override
