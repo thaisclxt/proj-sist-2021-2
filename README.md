@@ -161,11 +161,15 @@ Integrantes:
 | 01/11 | T02 | Aprovação do [pull request](https://github.com/thaisclxt/proj-sist-2021-2/pull/17) | Thais |
 | 04/11 | T03 | Adição dos forms | Nathan |
 | 07/11 | T03 | melhorias visuais | Nathan |
+| 08/11 | T04 | Criação do dropdown e botão de confirmação | Aline |
 | 09/11 | T03 | correções menores e melhorias visuais | Nathan |
 | 09/11 | T03 | Envio do [pull request](https://github.com/thaisclxt/proj-sist-2021-2/pull/20)| Nathan |
-| 10/11 | T03 | Aprovação do [pull request](https://github.com/thaisclxt/proj-sist-2021-2/pull/20)| Eric |
+| 10/11 | T04 | Envio do [pull request](https://github.com/thaisclxt/proj-sist-2021-2/pull/21) para a primeira revisão| Aline |
+| 10/11 | T04 | Correções e melhorias com os comentários de pull request | Aline |
 | 10/11 | T05 | Implementar gerência de estados | Edmundo |
 | 11/11 | T05 | Refatoração e correções | Edmundo |
+| 13/11 | T04 | Envio do [pull request](https://github.com/thaisclxt/proj-sist-2021-2/pull/23) para a segunda revisão | Aline |
+| 13/11 | T04 | Correções de erros e melhorias | Aline |
 
 
 
