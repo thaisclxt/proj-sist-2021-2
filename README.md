@@ -136,8 +136,8 @@ Integrantes:
 - 28/10 - Atribuição de tarefas, referente ao R12, para cada integrante do grupo.
   - [x] T01 - [Front-end] Elaborar o escopo da área de _Editar Perfil_ (@thaisclxt | 28/10)
   - [x] T02 - [Front-end e Back-end/Firebase] - Adicionar/editar foto de perfil (@ericjonaicostasouza | 30/10)
-  - [ ] T03 - [Front-end] - Editar o nome da loja e formulário com os campos telefone da loja, tempo de preparo e taxa de entrega (@nathanmachado10 | xx/xx)
-  - [ ] T04 - [Front-end e MobX] - Adicionar o dropDownButton para categorias e o botão de confirmar cadastro (@alinerosealencarsantos | xx/xx)
+  - [X] T03 - [Front-end] - Editar o nome da loja e formulário com os campos telefone da loja, tempo de preparo e taxa de entrega (@nathanmachado10 | 10/11)
+  - [X] T04 - [Front-end e MobX] - Adicionar o dropDownButton para categorias e o botão de confirmar cadastro (@alinerosealencarsantos | 14/11)
   - [ ] T05 - [MobX] - Usar MobX nas tarefas T02 e T03 (@edmundopaulino | xx/xx)
   - [ ] T06 - [Firebase] - Editar os campos modificados em T03 e T04 no banco de dados (@thaisclxt  e @milena_rios | xx/xx)
   - [ ] T07 - [Front-end e MobX] - Criar navegação para as próximas sessões do perfil (@marcosantoniocostafilho1 | xx/xx)
@@ -170,7 +170,8 @@ Integrantes:
 | 11/11 | T05 | Refatoração e correções | Edmundo |
 | 13/11 | T04 | Envio do [pull request](https://github.com/thaisclxt/proj-sist-2021-2/pull/23) para a segunda revisão | Aline |
 | 13/11 | T04 | Correções de erros e melhorias | Aline |
-
+| 17/11 | T06 | Implementação do método de envio dos dados editados do restaurante ao banco de dados | Thaís |
+| 17/11 | T06 | [Pull request](https://github.com/thaisclxt/proj-sist-2021-2/pull/25) enviado para revisão | Thaís |
 
 
 </br>
