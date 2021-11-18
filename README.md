@@ -139,8 +139,8 @@ Integrantes:
   - [X] T03 - [Front-end] - Editar o nome da loja e formulário com os campos telefone da loja, tempo de preparo e taxa de entrega (@nathanmachado10 | 10/11)
   - [X] T04 - [Front-end e MobX] - Adicionar o dropDownButton para categorias e o botão de confirmar cadastro (@alinerosealencarsantos | 14/11)
   - [ ] T05 - [MobX] - Usar MobX nas tarefas T02 e T03 (@edmundopaulino | xx/xx)
-  - [ ] T06 - [Firebase] - Editar os campos modificados em T03 e T04 no banco de dados (@thaisclxt  e @milena_rios | xx/xx)
-  - [ ] T07 - [Front-end e MobX] - Criar navegação para as próximas sessões do perfil (@marcosantoniocostafilho1 | xx/xx)
+  - [X] T06 - [Firebase] - Editar os campos modificados em T03 e T04 no banco de dados (@thaisclxt | 17/11)
+  - [ ] T07 - [Front-end e MobX] - Criar navegação para as próximas sessões do perfil (@milena_rios | xx/xx)
 
 - 28/10 - Atribuição de tarefas, referente ao R13, para cada integrante do grupo.
   - [x] T01 - [Front-end] Elaborar o escopo da área de _Editar Perfil_ (@thaisclxt | 28/10)
@@ -172,6 +172,7 @@ Integrantes:
 | 13/11 | T04 | Correções de erros e melhorias | Aline |
 | 17/11 | T06 | Implementação do método de envio dos dados editados do restaurante ao banco de dados | Thaís |
 | 17/11 | T06 | [Pull request](https://github.com/thaisclxt/proj-sist-2021-2/pull/25) enviado para revisão | Thaís |
+| 17/11 | T06 | Aprovação do [Pull request](https://github.com/thaisclxt/proj-sist-2021-2/pull/25) | Eric |
 
 
 </br>
