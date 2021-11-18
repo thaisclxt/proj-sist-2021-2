@@ -168,8 +168,11 @@ Integrantes:
 | 10/11 | T04 | Correções e melhorias com os comentários de pull request | Aline |
 | 10/11 | T05 | Implementar gerência de estados | Edmundo |
 | 11/11 | T05 | Refatoração e correções | Edmundo |
+| 11/11 | T05 | Envio do [pull request](https://github.com/thaisclxt/proj-sist-2021-2/pull/22) para a revisão | Edmundo |
+| 12/11 | T05 | Implementar correções e melhorias sugeridas | Edmundo |
 | 13/11 | T04 | Envio do [pull request](https://github.com/thaisclxt/proj-sist-2021-2/pull/23) para a segunda revisão | Aline |
 | 13/11 | T04 | Correções de erros e melhorias | Aline |
+| 15/11 | T05 | Implementar correções e melhorias sugeridas | Edmundo |
 | 17/11 | T06 | Implementação do método de envio dos dados editados do restaurante ao banco de dados | Thaís |
 | 17/11 | T06 | [Pull request](https://github.com/thaisclxt/proj-sist-2021-2/pull/25) enviado para revisão | Thaís |
 | 17/11 | T06 | Aprovação do [Pull request](https://github.com/thaisclxt/proj-sist-2021-2/pull/25) | Eric |
