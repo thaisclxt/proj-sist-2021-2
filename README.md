@@ -145,7 +145,7 @@ Integrantes:
 - 28/10 - Atribuição de tarefas, referente ao R13, para cada integrante do grupo.
   - [x] T01 - [Front-end] Elaborar o escopo da área de _Editar Perfil_ (@thaisclxt | 28/10)
   - [ ] T02 - [Front-end] - Criar uma seção para o endereço, com os campos CEP, cidade, estado, bairro, número, complemento e botão para confirmar, como na imagem _endereço.png_ (@alinerosealencarsantos | xx/xx)
-  - [ ] T03 - [Front-end] - Criar uma seção para gerenciamento, com os campos parra edição do nome, celular, email, senha e botão para confirmar, como na imagem _gerenciamento.png_ (@nathanmachado10 | xx/xx)
+  - [x] T03 - [Front-end] - Criar uma seção para gerenciamento, com os campos parra edição do nome, celular, email, senha e botão para confirmar, como na imagem _gerenciamento.png_ (@nathanmachado10 | 18/11)
   - [ ] T04 - [MobX] - Usar MobX nas tarefas T02 e T03 (@edmundopaulino | xx/xx)
   - [ ] T05 - [Firebase] - Editar os campos de T02 e T03 no banco de dados (@thaisclxt  e @milena_rios | xx/xx)
   - [ ] T06 - [Front-end e MobX] - Criar navegação para as próximas sessões do perfil e sessão anterior (@marcosantoniocostafilho1 | xx/xx)
@@ -184,3 +184,8 @@ Integrantes:
 | Data | Tarefa | Atividade | Aluno |
 | :-: | :-: | :-: | :-:  |
 | 28/10 | T01 | Elaborar o escopo da área de _Editar Perfil_ | Thaís |
+| 18/11 | T03 | Criação dos forms e ajustes visuais | Nathan |
+| 18/11 | T03 | Implementação do botão para chamar o dialog | Nathan |
+| 18/11 | T03 | [Pull request](https://github.com/thaisclxt/proj-sist-2021-2/pull/28) enviado para revisão | Nathan |
+
+
