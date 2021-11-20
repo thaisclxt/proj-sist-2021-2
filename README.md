@@ -189,8 +189,9 @@ Integrantes:
 | 07/11 | T07 | Ajustes finais | Eric |
 | 17/11 | T07 | [Pull request](https://github.com/thaisclxt/proj-sist-2021-2/pull/24) aprovado na revisão | Eric e Thaís|
 | 18/11 | T03 | Criação dos forms e ajustes visuais | Nathan |
-| 18/11 | T04 | Criação do formulário e botão de confirmação | Aline |
+| 18/11 | T02 | Criação do formulário e botão de confirmação | Aline |
 | 18/11 | T03 | Implementação do botão para chamar o dialog | Nathan |
+| 18/11 | T02 | Correções de padding e nome de classes  | Aline |
 | 18/11 | T03 | [Pull request](https://github.com/thaisclxt/proj-sist-2021-2/pull/28) enviado para revisão | Nathan |
 
 
