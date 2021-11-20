@@ -184,6 +184,10 @@ Integrantes:
 | Data | Tarefa | Atividade | Aluno |
 | :-: | :-: | :-: | :-:  |
 | 28/10 | T01 | Elaborar o escopo da área de _Editar Perfil_ | Thaís |
+| 05/11 | T07 | Criado frontEnd e backEnd da página | Eric |
+| 05/11 | T07 | Ajustada responsividade e refatorações de código | Eric |
+| 07/11 | T07 | Ajustes finais | Eric |
+| 17/11 | T07 | [Pull request](https://github.com/thaisclxt/proj-sist-2021-2/pull/24) aprovado na revisão | Eric e Thaís|
 | 18/11 | T03 | Criação dos forms e ajustes visuais | Nathan |
 | 18/11 | T03 | Implementação do botão para chamar o dialog | Nathan |
 | 18/11 | T03 | [Pull request](https://github.com/thaisclxt/proj-sist-2021-2/pull/28) enviado para revisão | Nathan |
