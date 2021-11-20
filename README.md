@@ -149,7 +149,7 @@ Integrantes:
   - [ ] T04 - [MobX] - Usar MobX nas tarefas T02 e T03 (@edmundopaulino | xx/xx)
   - [ ] T05 - [Firebase] - Editar os campos de T02 e T03 no banco de dados (@thaisclxt  e @milena_rios | xx/xx)
   - [ ] T06 - [Front-end e MobX] - Criar navegação para as próximas sessões do perfil e sessão anterior (@marcosantoniocostafilho1 | xx/xx)
-  - [ ] T07 - [Front-end e Back-end] - Adicionar a opção _Plano_ na SideBar. Ao clicar em _Plano_ deve ser possível visualizar as imagens dos dois planos e um botão de edição caso o usuário deseja trocar de plano ( @ericjonaicostasouza   | xx/xx)
+  - [x] T07 - [Front-end e Back-end] - Adicionar a opção _Plano_ na SideBar. Ao clicar em _Plano_ deve ser possível visualizar as imagens dos dois planos e um botão de edição caso o usuário deseja trocar de plano ( @ericjonaicostasouza   | 07/11)
 
 ### Cronograma de atividades R12
 | Data | Tarefa | Atividade | Aluno |
