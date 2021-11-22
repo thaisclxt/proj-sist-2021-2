@@ -195,6 +195,8 @@ Integrantes:
 | 18/11 | T03 | Implementação do botão para chamar o dialog | Nathan |
 | 18/11 | T02 | Correções de padding e nome de classes  | Aline |
 | 18/11 | T03 | [Pull request](https://github.com/thaisclxt/proj-sist-2021-2/pull/28) enviado para revisão | Nathan |
+| 19/11 | T04 | Refatoração de código para suportar gerência de estados pelo MobX | Edmundo |
+| 19/11 | T04 | [Pull request](https://github.com/thaisclxt/proj-sist-2021-2/pull/29) enviado para revisão | Edmundo |
 | 20/11 | T05 | Criação de funções para receber os valores dos campos no banco de dados | Thaís |
 | 20/11 | T05 | [Pull request](https://github.com/thaisclxt/proj-sist-2021-2/pull/30) enviado para revisão | Thaís |
 | 20/11 | T05 | Aprovação do [Pull request](https://github.com/thaisclxt/proj-sist-2021-2/pull/30) enviado para revisão | Eric |
