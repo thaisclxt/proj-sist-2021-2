@@ -202,7 +202,7 @@ Integrantes:
 | 20/11 | T05 | Criação de funções para receber os valores dos campos no banco de dados | Thaís e Milena|
 | 20/11 | T05 | [Pull request](https://github.com/thaisclxt/proj-sist-2021-2/pull/30) enviado para revisão | Thaís e Milena|
 | 20/11 | T05 | Aprovação do [Pull request](https://github.com/thaisclxt/proj-sist-2021-2/pull/30) enviado para revisão | Eric |
-| 20/11 | T06 | Iplementação de navegação para próxima seção e anterior | Marcos
+| 20/11 | T06 | Implementação de navegação para próxima seção e anterior | Marcos
 | 21/11 | R13 | [Pull request](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2021-2/pull/20) enviado para revisão | Thaís |
 
 
