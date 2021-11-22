@@ -138,17 +138,17 @@ Integrantes:
   - [x] T02 - [Front-end e Back-end/Firebase] - Adicionar/editar foto de perfil (@ericjonaicostasouza | 30/10)
   - [X] T03 - [Front-end] - Editar o nome da loja e formulário com os campos telefone da loja, tempo de preparo e taxa de entrega (@nathanmachado10 | 10/11)
   - [X] T04 - [Front-end e MobX] - Adicionar o dropDownButton para categorias e o botão de confirmar cadastro (@alinerosealencarsantos | 14/11)
-  - [ ] T05 - [MobX] - Usar MobX nas tarefas T02 e T03 (@edmundopaulino | xx/xx)
+  - [X] T05 - [MobX] - Usar MobX nas tarefas T02 e T03 (@edmundopaulino | 15/11)
   - [X] T06 - [Firebase] - Editar os campos modificados em T03 e T04 no banco de dados (@thaisclxt | 17/11)
-  - [ ] T07 - [Front-end e MobX] - Criar navegação para as próximas sessões do perfil (@milena_rios | xx/xx)
+  - [X] T07 - [Front-end e MobX] - Criar navegação para as próximas sessões do perfil (@milena_rios | 18/11)
 
 - 28/10 - Atribuição de tarefas, referente ao R13, para cada integrante do grupo.
   - [x] T01 - [Front-end] Elaborar o escopo da área de _Editar Perfil_ (@thaisclxt | 28/10)
-  - [ ] T02 - [Front-end] - Criar uma seção para o endereço, com os campos CEP, cidade, estado, bairro, número, complemento e botão para confirmar, como na imagem _endereço.png_ (@alinerosealencarsantos | xx/xx)
+  - [X] T02 - [Front-end] - Criar uma seção para o endereço, com os campos CEP, cidade, estado, bairro, número, complemento e botão para confirmar, como na imagem _endereço.png_ (@alinerosealencarsantos | 18/11)
   - [x] T03 - [Front-end] - Criar uma seção para gerenciamento, com os campos parra edição do nome, celular, email, senha e botão para confirmar, como na imagem _gerenciamento.png_ (@nathanmachado10 | 18/11)
-  - [ ] T04 - [MobX] - Usar MobX nas tarefas T02 e T03 (@edmundopaulino | xx/xx)
-  - [ ] T05 - [Firebase] - Editar os campos de T02 e T03 no banco de dados (@thaisclxt  e @milena_rios | xx/xx)
-  - [ ] T06 - [Front-end e MobX] - Criar navegação para as próximas sessões do perfil e sessão anterior (@marcosantoniocostafilho1 | xx/xx)
+  - [X] T04 - [MobX] - Usar MobX nas tarefas T02 e T03 (@edmundopaulino | 19/11)
+  - [X] T05 - [Firebase] - Editar os campos de T02 e T03 no banco de dados (@thaisclxt  e @milena_rios | 20/11)
+  - [X] T06 - [Front-end e MobX] - Criar navegação para as próximas sessões do perfil e sessão anterior (@marcosantoniocostafilho1 | 21/11)
   - [x] T07 - [Front-end e Back-end] - Adicionar a opção _Plano_ na SideBar. Ao clicar em _Plano_ deve ser possível visualizar as imagens dos dois planos e um botão de edição caso o usuário deseja trocar de plano ( @ericjonaicostasouza   | 07/11)
 
 ### Cronograma de atividades R12
@@ -176,7 +176,9 @@ Integrantes:
 | 17/11 | T06 | Implementação do método de envio dos dados editados do restaurante ao banco de dados | Thaís |
 | 17/11 | T06 | [Pull request](https://github.com/thaisclxt/proj-sist-2021-2/pull/25) enviado para revisão | Thaís |
 | 17/11 | T06 | Aprovação do [Pull request](https://github.com/thaisclxt/proj-sist-2021-2/pull/25) | Eric |
-
+| 18/11 | R12 | [Pull request](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2021-2/pull/18) enviado para revisão | Thaís |
+| 19/11 | R12 | Correções feitas referente à requested changes do [Pull request](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2021-2/pull/18) | Eric e Thaís |
+| 20/11 | R12 | Aprovação do [Pull request](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2021-2/pull/18) | Filipe e Victor Hugo (Grupo 3) |
 
 </br>
 
@@ -193,5 +195,9 @@ Integrantes:
 | 18/11 | T03 | Implementação do botão para chamar o dialog | Nathan |
 | 18/11 | T02 | Correções de padding e nome de classes  | Aline |
 | 18/11 | T03 | [Pull request](https://github.com/thaisclxt/proj-sist-2021-2/pull/28) enviado para revisão | Nathan |
+| 20/11 | T05 | Criação de funções para receber os valores dos campos no banco de dados | Thaís |
+| 20/11 | T05 | [Pull request](https://github.com/thaisclxt/proj-sist-2021-2/pull/30) enviado para revisão | Thaís |
+| 20/11 | T05 | Aprovação do [Pull request](https://github.com/thaisclxt/proj-sist-2021-2/pull/30) enviado para revisão | Eric |
+| 21/11 | R13 | [Pull request](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2021-2/pull/20) enviado para revisão | Thaís |
 
 
