@@ -29,7 +29,7 @@ class RestaurantHomePageState extends State<RestaurantHomePage> {
           children: [
             //side bar
             SizedBox(
-              width: screen.width * 0.2,
+              width: screen.width * 0.25,
               child: const CustomSideBar(),
             ),
             //main body

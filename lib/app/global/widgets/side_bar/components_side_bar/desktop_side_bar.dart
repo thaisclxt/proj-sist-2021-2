@@ -55,13 +55,14 @@ class _SideBarDesktopState extends State<SideBarDesktop> {
               ),
             ),
             Container(
-              alignment: Alignment.center,
+              alignment: Alignment.centerRight,
               color: redCollor,
               width: double.maxFinite,
               height: screen.height * 0.1,
               child: ListTilePerfil(),
             ),
             Container(
+              alignment: Alignment.center,
               color: Colors.white,
               width: double.maxFinite,
               height: screen.height * 0.04,
