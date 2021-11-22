@@ -48,6 +48,7 @@ class ProfileRepository extends IProfile {
               store.profileFormController['delivery_price']?.text)) ??
           restaurant.deliveryPrice,
     });
+    store.updateProfileControllers();
   }
 
   @override
@@ -65,10 +66,10 @@ class ProfileRepository extends IProfile {
       'email_Owner':
           _verifyForm(store.managementFormController['email_Owner']?.text) ??
               restaurant.emailOwner,
-      'password': _parsePrice(
-              _verifyForm(store.managementFormController['Senha']?.text)) ??
+      'password': _verifyForm(store.managementFormController['Senha']?.text) ??
           restaurant.password,
     });
+    store.updateManagementControllers();
   }
 
   @override
@@ -85,16 +86,15 @@ class ProfileRepository extends IProfile {
           restaurant.state,
       'district': _verifyForm(store.addressFormController['Bairro']?.text) ??
           restaurant.district,
-      'address': _parsePrice(
-              _verifyForm(store.addressFormController['Endereço']?.text)) ??
+      'address': _verifyForm(store.addressFormController['Endereço']?.text) ??
           restaurant.address,
-      'number': _parsePrice(
-              _verifyForm(store.addressFormController['Número']?.text)) ??
+      'number': _verifyForm(store.addressFormController['Número']?.text) ??
           restaurant.number,
-      'complement': _parsePrice(
-              _verifyForm(store.addressFormController['Complemento']?.text)) ??
+      'complement': _verifyForm(
+              store.addressFormController['Complemento (Opcional)']?.text) ??
           restaurant.complement,
     });
+    store.updateAddressControllers();
   }
 
   @override

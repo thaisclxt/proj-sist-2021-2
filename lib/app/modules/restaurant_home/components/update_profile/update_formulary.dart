@@ -1,3 +1,5 @@
+import 'package:another_flushbar/flushbar_route.dart';
+
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_modular/flutter_modular.dart';
@@ -69,13 +71,7 @@ class UpdateFormulary extends StatelessWidget {
             ),
           ),
         ),
-        Row(
-          mainAxisAlignment: MainAxisAlignment.spaceBetween,
-          children: [
-            const UpdateProfileDropdown(),
-            NextIcon(),
-          ],
-        ),
+        const UpdateProfileDropdown(),
         Padding(
           padding: const EdgeInsets.only(
               top: 10.0, bottom: 10.0, left: 15.0, right: 15.0),
@@ -165,7 +161,9 @@ class UpdateFormulary extends StatelessWidget {
             onPressed: () async {
               await ProfileRepository()
                   .setProfileRestaurant(homeStore.restaurant!);
+              homeStore.getRestaurant();
               Navigator.of(context).pop();
+              await showConfirmationFlush(context);
             },
           ),
         ),
