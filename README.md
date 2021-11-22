@@ -176,6 +176,8 @@ Integrantes:
 | 17/11 | T06 | Implementação do método de envio dos dados editados do restaurante ao banco de dados | Thaís |
 | 17/11 | T06 | [Pull request](https://github.com/thaisclxt/proj-sist-2021-2/pull/25) enviado para revisão | Thaís |
 | 17/11 | T06 | Aprovação do [Pull request](https://github.com/thaisclxt/proj-sist-2021-2/pull/25) | Eric |
+| 17/11 | T07 | Criação do botão no dialog do editar perfil para próxima seção | Milena |
+| 17/11 | T07 | [Pull request] ( | Milena |
 | 18/11 | R12 | [Pull request](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2021-2/pull/18) enviado para revisão | Thaís |
 | 19/11 | R12 | Correções feitas referente à requested changes do [Pull request](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2021-2/pull/18) | Eric e Thaís |
 | 20/11 | R12 | Aprovação do [Pull request](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2021-2/pull/18) | Filipe e Victor Hugo (Grupo 3) |
@@ -197,8 +199,8 @@ Integrantes:
 | 18/11 | T03 | [Pull request](https://github.com/thaisclxt/proj-sist-2021-2/pull/28) enviado para revisão | Nathan |
 | 19/11 | T04 | Refatoração de código para suportar gerência de estados pelo MobX | Edmundo |
 | 19/11 | T04 | [Pull request](https://github.com/thaisclxt/proj-sist-2021-2/pull/29) enviado para revisão | Edmundo |
-| 20/11 | T05 | Criação de funções para receber os valores dos campos no banco de dados | Thaís |
-| 20/11 | T05 | [Pull request](https://github.com/thaisclxt/proj-sist-2021-2/pull/30) enviado para revisão | Thaís |
+| 20/11 | T05 | Criação de funções para receber os valores dos campos no banco de dados | Thaís e Milena|
+| 20/11 | T05 | [Pull request](https://github.com/thaisclxt/proj-sist-2021-2/pull/30) enviado para revisão | Thaís e Milena|
 | 20/11 | T05 | Aprovação do [Pull request](https://github.com/thaisclxt/proj-sist-2021-2/pull/30) enviado para revisão | Eric |
 | 21/11 | R13 | [Pull request](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2021-2/pull/20) enviado para revisão | Thaís |
 
