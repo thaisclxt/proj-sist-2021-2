@@ -117,13 +117,6 @@ Integrantes:
 | 30/10 | R09 | Reunião com Daniel (Grupo 2) para esclarecer sobre alterações do nosso trabalho pelo grupo 2, revisão mal concluida e integração dos requisitos | Thaís, Milena e Eric |
 | 03/11 | R09 | [Pull Request](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2021-2/pull/12) **APROVADO** | Daniel (Grupo 2) |
 
-
-</br>
-
-## Observações referente à 3ª Iteração - R08 e R09
-- Ao iniciar as atividades do requisito R09, o R08 ainda estava em revisão. Ao concluir o R09, o R08 permaneceu em revisão e como criamos um Pull Reques de merge da `develop` para `upstream:develop`, não foi possível criar um novo Pull Request para o R09, já que as mudanças deste estavam na `develop`. Assim, os dois requisitos estão no mesmo Pull Request. Pedimos desculpas pela bagunça. Isso não ocorrerá novamente.
-- É inaceitável considerar que a data de devolução da 2ª revisão do R08 foi dia 24/10 e que o status é Reprovado, já que não há uma conclusão final no Pull Request e observações que seriam melhor detalhadas após a aula, não foram.
-
 </br>
 
 ## Iteração 4 - 25/10 à 22/11
@@ -178,8 +171,9 @@ Integrantes:
 | 17/11 | T06 | Aprovação do [Pull request](https://github.com/thaisclxt/proj-sist-2021-2/pull/25) | Eric |
 | 17/11 | T07 | Criação do botão no dialog do editar perfil para próxima seção | Milena |
 | 17/11 | T07 | [Pull request] ( | Milena |
-| 18/11 | R12 | [Pull request](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2021-2/pull/18) enviado para revisão | Thaís |
+| 18/11 | R12 | [Pull request](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2021-2/pull/18) enviado para 1ª revisão | Thaís |
 | 19/11 | R12 | Correções feitas referente à requested changes do [Pull request](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2021-2/pull/18) | Eric e Thaís |
+| 20/11 | R12 | [Pull request](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2021-2/pull/18) enviado para 2ª revisão | Thaís |
 | 20/11 | R12 | Aprovação do [Pull request](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2021-2/pull/18) | Filipe e Victor Hugo (Grupo 3) |
 
 </br>
@@ -199,11 +193,15 @@ Integrantes:
 | 18/11 | T03 | [Pull request](https://github.com/thaisclxt/proj-sist-2021-2/pull/28) enviado para revisão | Nathan |
 | 19/11 | T04 | Refatoração de código para suportar gerência de estados pelo MobX | Edmundo |
 | 19/11 | T04 | [Pull request](https://github.com/thaisclxt/proj-sist-2021-2/pull/29) enviado para revisão | Edmundo |
-| 20/11 | T05 | Criação de funções para receber os valores dos campos no banco de dados | Thaís|
-| 20/11 | T05 | Criação de funções para enviar os valores dos campos editados para o banco de dados | Milena|
+| 20/11 | T05 | Criação de funções para receber os valores dos campos no banco de dados | Thaís |
+| 20/11 | T05 | Criação de funções para enviar os valores dos campos no banco de dados | Milena |
 | 20/11 | T05 | [Pull request](https://github.com/thaisclxt/proj-sist-2021-2/pull/30) enviado para revisão | Thaís e Milena|
 | 20/11 | T05 | Aprovação do [Pull request](https://github.com/thaisclxt/proj-sist-2021-2/pull/30) enviado para revisão | Eric |
-| 20/11 | T06 | Implementação de navegação para próxima seção e anterior | Marcos
-| 21/11 | R13 | [Pull request](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2021-2/pull/20) enviado para revisão | Thaís |
+| 20/11 | T06 | Implementação de navegação para próxima seção e anterior | Marcos |
+| 21/11 | R13 | [Pull request](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2021-2/pull/20) enviado para 1ª revisão | Thaís |
+| 21/11 | R13 | Correções feitas referente à requested changes do [Pull request](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2021-2/pull/20) | Eric e Thaís |
+| 22/11 | R13 | Correções feitas referente à requested changes do [Pull request](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2021-2/pull/20) | Thaís |
+| 22/11 | R13 | [Pull request](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2021-2/pull/20) enviado para 2ª revisão | Thaís |
+| 22/11 | R13 | Aprovação do [Pull request](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2021-2/pull/20) | Filipe e Victor Hugo (Grupo 3) |
 
 
