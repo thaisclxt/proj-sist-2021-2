@@ -33,7 +33,7 @@ extension FilterExtension on FilterType {
       case FilterType.shortestDistance:
         return 'distance';
       default:
-        return 'social_name';
+        return 'socialName';
     }
   }
 

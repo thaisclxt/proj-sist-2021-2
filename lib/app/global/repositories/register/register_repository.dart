@@ -18,13 +18,13 @@ class RegisterRepository extends IRegisterRepository {
   @override
   Future<void>? addRestaurant() {
     restaurant.add({
-      'name_Owner': registerStore.controller['nome']?.text,
-      'email_Owner': registerStore.controller['email']?.text,
-      'phone_Owner': registerStore.controller['telefone']?.text,
+      'nameOwner': registerStore.controller['nome']?.text,
+      'emailOwner': registerStore.controller['email']?.text,
+      'phoneOwner': registerStore.controller['telefone']?.text,
       'CNPJ': registerStore.controller['CNPJ']?.text,
       'company_name': registerStore.controller['Razão Social']?.text,
-      'social_name': registerStore.controller['Nome da loja']?.text,
-      'phone_restaurant': registerStore.controller['Telefone da loja']?.text,
+      'socialName': registerStore.controller['Nome da loja']?.text,
+      'phoneRestaurant': registerStore.controller['Telefone da loja']?.text,
       'CEP': registerStore.controller['CEP']?.text,
       'state': registerStore.controller['Estado']?.text,
       'city': registerStore.controller['Cidade']?.text,
@@ -33,7 +33,7 @@ class RegisterRepository extends IRegisterRepository {
       'number': registerStore.controller['Número']?.text,
       'complement': registerStore.controller['Complemento (Opcional)']?.text,
       'password': registerStore.controller['Senha']?.text,
-      'delivery_plan': registerStore.controller['Plano de Entrega']?.text,
+      'deliveryPlan': registerStore.controller['Plano de Entrega']?.text,
       'category': registerStore.controller['Categoria']?.text,
     });
   }
