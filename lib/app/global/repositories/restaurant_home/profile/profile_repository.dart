@@ -42,10 +42,10 @@ class ProfileRepository extends IProfile {
               restaurant.phone,
       'category': store.category,
       'estimatedDelivery':
-          _verifyForm(store.profileFormController['prepare_time']?.text) ??
+          _verifyForm(store.profileFormController['prepareTime']?.text) ??
               restaurant.estimatedDelivery,
-      'delivery_price': _parsePrice(_verifyForm(
-              store.profileFormController['delivery_price']?.text)) ??
+      'deliveryPrice': _parsePrice(_verifyForm(
+              store.profileFormController['deliveryPrice']?.text)) ??
           restaurant.deliveryPrice,
     });
     store.updateProfileControllers();
