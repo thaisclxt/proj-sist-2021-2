@@ -2,7 +2,10 @@ import 'package:flutter/material.dart';
 import 'package:mobx/mobx.dart';
 import 'package:pscomidas/app/global/repositories/register/register_repository.dart';
 import 'pages/register_shop/register_field.dart';
+// ignore: avoid_web_libraries_in_flutter
+import 'dart:html' as html;
 part 'restaurant_register_store.g.dart';
+
 
 class RestaurantRegisterStore = _RestaurantRegisterStore
     with _$RestaurantRegisterStore;
@@ -76,6 +79,28 @@ abstract class _RestaurantRegisterStore with Store {
     'Plano de Entrega': TextEditingController(),
     'Categoria': TextEditingController(),
   };
+
+  addOwnerToCookie() {
+     html.document.cookie = "nome=${controller['nome']!.text}; max-age=300; path=/;";
+     html.document.cookie = "email=${controller['email']!.text}; max-age=300; path=/;";
+     html.document.cookie = "telefone=${controller['telefone']!.text}; max-age=300; path=/;";
+  }
+
+  getOwnerByCookie() {
+    if (html.document.cookie == null) {
+      return;
+    }
+    final ownerElements = ['nome', 'email', 'telefone'];
+    String cookies = html.document.cookie!;
+    List<String> listValues = cookies.split(";");
+    for (var element in listValues) {
+      final info = element.split("=");
+      if (ownerElements.any((e) => e == info[0])) {
+        controller[info[0].trim()]?.text = info[1].trim();
+      }
+    }
+  }
+
   final formKey = GlobalKey<FormState>();
   final fields = RegisterField.fields;
   final categories = [
@@ -112,6 +137,7 @@ abstract class _RestaurantRegisterStore with Store {
 
   @action
   void dispose() {
+    html.document.cookie = null;
     controller.forEach((key, value) => value.clear());
   }
 

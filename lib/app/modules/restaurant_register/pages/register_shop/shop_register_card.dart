@@ -32,7 +32,8 @@ class _ShopRegisterCardState extends State<ShopRegisterCard> {
 
   @override
   void initState() {
-    if (registerStore.controller['nomeOwner'] == null) {
+    registerStore.getOwnerByCookie();
+    if (registerStore.controller['nome'] == null) {
       Modular.to.navigate(RestaurantRegisterPage.routeName);
     }
     autorunFlush = autorun((_) {

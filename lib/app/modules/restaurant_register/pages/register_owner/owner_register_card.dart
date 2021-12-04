@@ -71,6 +71,7 @@ class OwnerRegisterCard extends StatelessWidget {
                   ),
                   onPressed: () async {
                     if (cardFormKey.currentState!.validate()) {
+                      registerStore.addOwnerToCookie();
                       Modular.to.navigate(ShopRegisterCard.routeName);
                     }
                   },
