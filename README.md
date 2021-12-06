@@ -223,14 +223,20 @@ Integrantes:
   - [ ] T08 - Mudança da fonte da fonte de categorias e correção da logo ( @alinerosealencarsantos | xx/xx)
 
 
-### Cronograma de atividades R13
+### Cronograma de atividades RW01
 | Data | Tarefa | Atividade | Aluno |
 | :-: | :-: | :-: | :-:  |
 | 26/11 | T05 | implementação das correções solicitadas | Eric |
 | 26/11 | T05 | implementação da ferramenta de pesquisa | Eric |
 | 26/11 | T05 | finalização e envio do [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/33) | Eric |
+| 27/11 | T01 | Implementação da função de CreateUserWithEmailAndPassword para autenticação de cadastro lojista no firebase | Milena |
+| 28/11 | T01 | Ajustes finais na função de register lojista e implementação da função de logout do usuário | Milena |
+| 28/11 | T01 | [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/34) Enviado para 1ª revisão | Milena |
 | 28/11 | T01 | 1ª Revisão do [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/34) | Thaís |
+| 29/11 | SideBar | Correção nos buttons da side_bar para versão mobile | Milena |
+| 29/11 | SideBar | [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/35) Enviado para 1ª revisão | Milena |
 | 29/11 | SideBar | Revisão e aprovação do [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/35) | Thaís |
+| 29/11 | T01 | [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/34)Enviado para 2ª revisão | Milena |
 | 29/11 | T01 | 2ª Revisão e aprovação do [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/34) | Thaís |
 | 29/11 | T05 | 1ª Revisão do [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/33) | Thaís |
 | 29/11 | T05 | 2ª Revisão e aprovação do [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/33) | Thaís |
