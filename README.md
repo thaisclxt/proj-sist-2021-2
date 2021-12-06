@@ -237,3 +237,5 @@ Integrantes:
 | 03/12 | Código | Limpeza de código | Thaís |
 | 06/12 | T04 | Alteração de alguns nomes de variáveis, de arquivos e de pastas | Thaís |
 | 06/12 | T04 | Revisão e aprovação do [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/39) | Thaís |
+| 03/12 | T07 | Conexão com o banco incompleto | Marcos |
+| 05/12 | T07 | Implementação página de avaliação | Marcos |
