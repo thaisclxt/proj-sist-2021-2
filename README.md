@@ -220,13 +220,12 @@ Integrantes:
   - [X] T05 - Corrigir o campo de **busca** na _home page_ e corrigir a implementação de **categorias**. Ao selecionar uma categoria e clicar na logo do projeto, deve mostrar todos os restaurantes, sem uma categoria selecionada. ( @ericjonaicostasouza | 29/11 )
   - [ ] T06 - Adicionar uma página para o **cupom** na tela inicial do restaurante (quando o restaurante faz login), para que o lojista possa escolher qual cupom adicionar ( @nathanmachado10 | xx/xx )
   - [ ] T07 - Implementar a página **avaliações** na tela inicial do restaurante (quando o restaurante faz login), para que o lojista possa visualizar suas avaliações - quantidade de estrelas e comentários ( @marcosantoniocostafilho1 | xx/xx )
+  - [ ] T08 - Mudança da fonte da fonte de categorias e correção da logo ( @alinerosealencarsantos | xx/xx)
 
 
-### Cronograma de atividades RW01
+### Cronograma de atividades R13
 | Data | Tarefa | Atividade | Aluno |
 | :-: | :-: | :-: | :-:  |
-| 27/11 | T01 | Implementação da função de CreateUserWithEmailAndPassword para autenticação de cadastro lojista no firebase| Milena |
-| 28/11 | T01 | Ajustes finais na função de register lojista e implementação da função de logout do usuário | Milena |
 | 28/11 | T01 | 1ª Revisão do [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/34) | Thaís |
 | 29/11 | SideBar | Revisão e aprovação do [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/35) | Thaís |
 | 29/11 | T01 | 2ª Revisão e aprovação do [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/34) | Thaís |
@@ -236,7 +235,9 @@ Integrantes:
 | 03/12 | T02 e T03 | 1ª Revisão do [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/37) | Thaís |
 | 03/12 | T02 e T03 | 2ª Revisão e aprovação do [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/37) | Thaís |
 | 03/12 | FooterBar | 2ª Revisão e aprovação do [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/36) | Thaís |
+| 03/12 | T04| Mudança dos nomes das variáveis para camelCase | Aline |
 | 03/12 | Código | Limpeza de código | Thaís |
+| 04/12 | T04| Alteração dos nomes em camelCase no firebase | Aline |
 | 06/12 | T04 | Alteração de alguns nomes de variáveis, de arquivos e de pastas | Thaís |
 | 06/12 | T04 | Revisão e aprovação do [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/39) | Thaís |
 | 03/12 | T07 | Conexão com o banco incompleto | Marcos |
