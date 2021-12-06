@@ -236,7 +236,7 @@ Integrantes:
 | 29/11 | SideBar | Correção nos buttons da side_bar para versão mobile | Milena |
 | 29/11 | SideBar | [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/35) Enviado para 1ª revisão | Milena |
 | 29/11 | SideBar | Revisão e aprovação do [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/35) | Thaís |
-| 29/11 | T01 | [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/34)Enviado para 2ª revisão | Milena |
+| 29/11 | T01 | [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/34) Enviado para 2ª revisão | Milena |
 | 29/11 | T01 | 2ª Revisão e aprovação do [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/34) | Thaís |
 | 29/11 | T05 | 1ª Revisão do [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/33) | Thaís |
 | 29/11 | T05 | 2ª Revisão e aprovação do [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/33) | Thaís |
