@@ -218,7 +218,7 @@ Integrantes:
   - [X] T03 - A partir do UID, os seguintes atributos devem ser enviados para a **coleção restaurant** em Firebase Database: CEP, CNPJ, address, avaliation, category, city, company name, closing time, complement, cupom, delivey plan, delivery price, distance, district, email owner, estimated delivery, image, is champion, name owner, number, orders, phone owner, phone restaurant, prepare time, social name, state. Lembrando que é incorreto armazenar o valor da senha ao banco de dados ( @thaisclxt | 03/12 )
   - [X] T04 - Fazer uma **limpeza** no banco de dados. Os nomes das variáveis não estão seguindo um padrão. Na [documentação](https://firebase.google.com/docs/database/web/structure-data) oficial, eles utilizam camelCase, não é uma obrigação, mas acho adequado seguir e vai de acordo com as convenções de dart e flutter. Lembrando que além de corrigir no Firebase, é preciso corrigir em todos os momentos que é invocado no código. ( @alinerosealencarsantos | 06/12 )
   - [X] T05 - Corrigir o campo de **busca** na _home page_ e corrigir a implementação de **categorias**. Ao selecionar uma categoria e clicar na logo do projeto, deve mostrar todos os restaurantes, sem uma categoria selecionada. ( @ericjonaicostasouza | 29/11 )
-  - [ ] T06 - Adicionar uma página para o **cupom** na tela inicial do restaurante (quando o restaurante faz login), para que o lojista possa escolher qual cupom adicionar ( @nathanmachado10 | xx/xx )
+  - [X] T06 - Adicionar uma página para o **cupom** na tela inicial do restaurante (quando o restaurante faz login), para que o lojista possa escolher qual cupom adicionar ( @nathanmachado10 | 06/12 )
   - [ ] T07 - Implementar a página **avaliações** na tela inicial do restaurante (quando o restaurante faz login), para que o lojista possa visualizar suas avaliações - quantidade de estrelas e comentários ( @marcosantoniocostafilho1 | xx/xx )
   - [ ] T08 - Mudança da fonte da fonte de categorias e correção da logo ( @alinerosealencarsantos | xx/xx)
 
@@ -241,13 +241,23 @@ Integrantes:
 | 29/11 | T05 | 1ª Revisão do [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/33) | Thaís |
 | 29/11 | T05 | 2ª Revisão e aprovação do [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/33) | Thaís |
 | 29/11 | FooterBar | 1ª Revisão do [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/36) | Thaís |
+| 02/12 | T06 | Criação da página de cupons e dos métodos de interação com firebase | Nathan |
 | 03/12 | T02 e T03 | 1ª Revisão do [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/37) | Thaís |
 | 03/12 | T02 e T03 | 2ª Revisão e aprovação do [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/37) | Thaís |
 | 03/12 | FooterBar | 2ª Revisão e aprovação do [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/36) | Thaís |
 | 03/12 | T04| Mudança dos nomes das variáveis para camelCase | Aline |
 | 03/12 | Código | Limpeza de código | Thaís |
+| 03/12 | T06 | Mudança de design | Nathan |
 | 04/12 | T04| Alteração dos nomes em camelCase no firebase | Aline |
 | 06/12 | T04 | Alteração de alguns nomes de variáveis, de arquivos e de pastas | Thaís |
 | 06/12 | T04 | Revisão e aprovação do [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/39) | Thaís |
 | 03/12 | T07 | Conexão com o banco incompleto | Marcos |
 | 05/12 | T07 | Implementação página de avaliação | Marcos |
+| 05/12 | T06 | Correções visuais e de layout | Nathan |
+| 05/12 | T06 | Implementação da lógica e ajustes finais | Nathan |
+| 06/12 | T06 | [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/40) Enviado para 1ª revisão | Nathan |
+| 06/12 | T06 | Correções referentes ao [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/40) | Nathan |
+
+
+
+
