@@ -257,6 +257,7 @@ Integrantes:
 | 05/12 | T06 | Implementação da lógica e ajustes finais | Nathan |
 | 06/12 | T06 | [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/40) Enviado para 1ª revisão | Nathan |
 | 06/12 | T06 | Correções referentes ao [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/40) | Nathan |
+| 06/12 | T08 | Alterações feitas na fonte da parte de categorias e ajuste da logo | Aline |
 
 
 
