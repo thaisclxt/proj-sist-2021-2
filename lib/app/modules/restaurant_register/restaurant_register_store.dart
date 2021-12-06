@@ -95,7 +95,7 @@ abstract class _RestaurantRegisterStore with Store {
     List<String> listValues = cookies.split(";");
     for (var element in listValues) {
       final info = element.split("=");
-      if (ownerElements.any((e) => e == info[0])) {
+      if (ownerElements.any((e) => e == info[0].trim())) {
         controller[info[0].trim()]?.text = info[1].trim();
       }
     }

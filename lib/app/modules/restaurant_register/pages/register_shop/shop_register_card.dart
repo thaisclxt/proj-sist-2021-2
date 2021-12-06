@@ -90,6 +90,7 @@ class _ShopRegisterCardState extends State<ShopRegisterCard> {
         elevation: 2,
         leading: IconButton(
           onPressed: () {
+            registerStore.dispose();
             Modular.to.navigate(RestaurantRegisterPage.routeName);
           },
           icon: const Icon(
