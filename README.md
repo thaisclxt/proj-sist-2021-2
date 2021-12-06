@@ -222,9 +222,11 @@ Integrantes:
   - [ ] T07 - Implementar a página **avaliações** na tela inicial do restaurante (quando o restaurante faz login), para que o lojista possa visualizar suas avaliações - quantidade de estrelas e comentários ( @marcosantoniocostafilho1 | xx/xx )
 
 
-### Cronograma de atividades R13
+### Cronograma de atividades RW01
 | Data | Tarefa | Atividade | Aluno |
 | :-: | :-: | :-: | :-:  |
+| 27/11 | T01 | Implementação da função de CreateUserWithEmailAndPassword para autenticação de cadastro lojista no firebase| Milena |
+| 28/11 | T01 | Ajustes finais na função de register lojista e implementação da função de logout do usuário | Milena |
 | 28/11 | T01 | 1ª Revisão do [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/34) | Thaís |
 | 29/11 | SideBar | Revisão e aprovação do [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/35) | Thaís |
 | 29/11 | T01 | 2ª Revisão e aprovação do [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/34) | Thaís |
