@@ -205,3 +205,35 @@ Integrantes:
 | 22/11 | R13 | Aprovação do [Pull request](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2021-2/pull/20) | Filipe e Victor Hugo (Grupo 3) |
 
 
+</br>
+
+## Iteração 5 - 22/11 à 06/12
+- 26/11 - Atribuição de sub-tarefas, para cada integrante do grupo.
+  - RW01- Ajustes Finais - Grupo 1
+    - [Card no Trello](https://trello.com/c/iA2oFN5J/28-rw01-ajustes-finais-grupo-1)
+
+- Sub-tarefas
+  - [x] T01 - Quando o cadastro do restaurante é finalizado naquela tela que implementamos, deve ser gerado um UID para o usuário e a partir deste, ser registrado pelo **Authentication**. Para mais informações, acessem a [documentação](https://firebase.flutter.dev/docs/auth/usage/). Ao clicar em sair, o usuário deve ser deslogado de Authenticantion (@milena_rios | 29/11)
+  - [X] T02 - Após o usuário ser registrado em Authentication, a partir do seu UID, os seguintes atributos devem ser enviados para a **coleção users** em Firebase Database: email (String), restaurant (UID do restaurante - se não tiver, significa que é client), name (String), phone (String) ( @edmundopaulino | 03/12 )
+  - [X] T03 - A partir do UID, os seguintes atributos devem ser enviados para a **coleção restaurant** em Firebase Database: CEP, CNPJ, address, avaliation, category, city, company name, closing time, complement, cupom, delivey plan, delivery price, distance, district, email owner, estimated delivery, image, is champion, name owner, number, orders, phone owner, phone restaurant, prepare time, social name, state. Lembrando que é incorreto armazenar o valor da senha ao banco de dados ( @thaisclxt | 03/12 )
+  - [X] T04 - Fazer uma **limpeza** no banco de dados. Os nomes das variáveis não estão seguindo um padrão. Na [documentação](https://firebase.google.com/docs/database/web/structure-data) oficial, eles utilizam camelCase, não é uma obrigação, mas acho adequado seguir e vai de acordo com as convenções de dart e flutter. Lembrando que além de corrigir no Firebase, é preciso corrigir em todos os momentos que é invocado no código. ( @alinerosealencarsantos | 06/12 )
+  - [X] T05 - Corrigir o campo de **busca** na _home page_ e corrigir a implementação de **categorias**. Ao selecionar uma categoria e clicar na logo do projeto, deve mostrar todos os restaurantes, sem uma categoria selecionada. ( @ericjonaicostasouza | 29/11 )
+  - [ ] T06 - Adicionar uma página para o **cupom** na tela inicial do restaurante (quando o restaurante faz login), para que o lojista possa escolher qual cupom adicionar ( @nathanmachado10 | xx/xx )
+  - [ ] T07 - Implementar a página **avaliações** na tela inicial do restaurante (quando o restaurante faz login), para que o lojista possa visualizar suas avaliações - quantidade de estrelas e comentários ( @marcosantoniocostafilho1 | xx/xx )
+
+
+### Cronograma de atividades R13
+| Data | Tarefa | Atividade | Aluno |
+| :-: | :-: | :-: | :-:  |
+| 28/11 | T01 | 1ª Revisão do [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/34) | Thaís |
+| 29/11 | SideBar | Revisão e aprovação do [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/35) | Thaís |
+| 29/11 | T01 | 2ª Revisão e aprovação do [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/34) | Thaís |
+| 29/11 | T05 | 1ª Revisão do [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/33) | Thaís |
+| 29/11 | T05 | 2ª Revisão e aprovação do [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/33) | Thaís |
+| 29/11 | FooterBar | 1ª Revisão do [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/36) | Thaís |
+| 03/12 | T02 e T03 | 1ª Revisão do [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/37) | Thaís |
+| 03/12 | T02 e T03 | 2ª Revisão e aprovação do [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/37) | Thaís |
+| 03/12 | FooterBar | 2ª Revisão e aprovação do [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/36) | Thaís |
+| 03/12 | Código | Limpeza de código | Thaís |
+| 06/12 | T04 | Alteração de alguns nomes de variáveis, de arquivos e de pastas | Thaís |
+| 06/12 | T04 | Revisão e aprovação do [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/39) | Thaís |
