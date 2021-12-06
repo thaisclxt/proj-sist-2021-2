@@ -225,6 +225,9 @@ Integrantes:
 ### Cronograma de atividades R13
 | Data | Tarefa | Atividade | Aluno |
 | :-: | :-: | :-: | :-:  |
+| 26/11 | T05 | implementação das correções solicitadas | Eric |
+| 26/11 | T05 | implementação da ferramenta de pesquisa | Eric |
+| 26/11 | T05 | finalização e envio do [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/33) | Eric |
 | 28/11 | T01 | 1ª Revisão do [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/34) | Thaís |
 | 29/11 | SideBar | Revisão e aprovação do [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/35) | Thaís |
 | 29/11 | T01 | 2ª Revisão e aprovação do [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/34) | Thaís |
