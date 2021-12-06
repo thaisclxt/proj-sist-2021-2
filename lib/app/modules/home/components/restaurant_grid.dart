@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_mobx/flutter_mobx.dart';
 import 'package:flutter_modular/flutter_modular.dart';
 import 'package:pscomidas/app/global/models/entities/restaurant.dart';
+import 'package:pscomidas/app/global/utils/schemas.dart';
 import 'package:pscomidas/app/modules/home/components/restaurant_card.dart';
 import 'package:pscomidas/app/modules/home/store/home_store.dart';
 
@@ -38,6 +39,30 @@ class _RestaurantGridState extends ModularState<RestaurantGrid, HomeStore> {
             .where((e) =>
                 e.socialName.toLowerCase().contains(homeStore.searchShop))
             .toList();
+        if (restaurants.isEmpty) {
+          return Column(
+            crossAxisAlignment: CrossAxisAlignment.stretch,
+            children: const [
+              Center(
+                child: Text(
+                  "Nenhum restaurante atende à sua pesquisa :(",
+                  style: TextStyle(
+                    fontSize: 20,
+                    fontFamily: 'Nunito',
+                  ),
+                ),
+              ),
+              Center(
+                child: Text(
+                  "Tente buscar outros termos ou categorias",
+                  style: TextStyle(
+                    color: tertiaryColor,
+                  ),
+                ),
+              ),
+            ]
+          );
+        }
         return GridView.builder(
           scrollDirection: Axis.vertical,
           padding: const EdgeInsets.symmetric(horizontal: 12),
