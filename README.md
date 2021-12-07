@@ -1,4 +1,4 @@
-# Relatório - Grupo 1
+# Relatório de Gestão - Grupo 1
 Líder:
 - [Thaís Faustino Calixto](https://github.com/thaisclxt)
 
@@ -13,11 +13,6 @@ Integrantes:
 
 </br>
 
-## Iteração 3 - 11/10 à 25/10
-### Reunião com líderes de grupo - 12/10
-- Atribuição de 2 Stories para cada grupo, nosso grupo ficou com:
-  - R08 - [Lojista] Cadastrar Empresa
-  - R09 - [Lojista] Gerenciar Empresa
 
 ### Reunião interna com o grupo - 13/10
 - Atribuição de tarefas, referente ao R08, para cada integrante do grupo.
@@ -242,14 +237,14 @@ Integrantes:
 | 29/11 | T05 | 2ª Revisão e aprovação do [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/33) | Thaís |
 | 29/11 | FooterBar | 1ª Revisão do [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/36) | Thaís |
 | 02/12 | T06 | Criação da página de cupons e dos métodos de interação com firebase | Nathan |
-| 03/12 | T02 e T03 | 1ª Revisão do [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/37) | Thaís |
-| 03/12 | T02 e T03 | 2ª Revisão e aprovação do [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/37) | Thaís |
 | 03/12 | FooterBar | 2ª Revisão e aprovação do [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/36) | Thaís |
 | 03/12 | T04| Mudança dos nomes das variáveis para camelCase | Aline |
 | 03/12 | Código | Limpeza de código | Thaís |
 | 03/12 | T06 | Mudança de design | Nathan |
-| 03/12 | T02 | Refatoração no fluxo de autenticação e criação de restaurante | Edmundo |
-| 03/12 | T02 | [Pull request](https://github.com/thaisclxt/proj-sist-2021-2/pull/37) enviado para 1ª revisão | Edmundo |
+| 03/12 | T02 e T03| Refatoração no fluxo de autenticação e criação de restaurante | Edmundo |
+| 03/12 | T02 e T03 | [Pull request](https://github.com/thaisclxt/proj-sist-2021-2/pull/37) enviado para 1ª revisão | Edmundo |
+| 03/12 | T02 e T03 | 1ª Revisão do [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/37) | Thaís |
+| 03/12 | T02 e T03 | 2ª Revisão e aprovação do [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/37) | Thaís |
 | 04/12 | T04| Alteração dos nomes em camelCase no firebase | Aline |
 | 06/12 | T04 | Alteração de alguns nomes de variáveis, de arquivos e de pastas | Thaís |
 | 06/12 | T04 | Revisão e aprovação do [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/39) | Thaís |
@@ -260,7 +255,4 @@ Integrantes:
 | 06/12 | T06 | [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/40) Enviado para 1ª revisão | Nathan |
 | 06/12 | T06 | Correções referentes ao [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/40) | Nathan |
 | 06/12 | T08 | Alterações feitas na fonte da parte de categorias e ajuste da logo | Aline |
-
-
-
-
+| 06/12 | RW1 | [Pull Request](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2021-2/pull/27) enviado para revisão | Thaís |
