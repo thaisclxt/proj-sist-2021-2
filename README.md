@@ -248,6 +248,8 @@ Integrantes:
 | 03/12 | T04| Mudança dos nomes das variáveis para camelCase | Aline |
 | 03/12 | Código | Limpeza de código | Thaís |
 | 03/12 | T06 | Mudança de design | Nathan |
+| 03/12 | T02 | Refatoração no fluxo de autenticação e criação de restaurante | Edmundo |
+| 03/12 | T02 | [Pull request](https://github.com/thaisclxt/proj-sist-2021-2/pull/37) enviado para 1ª revisão | Edmundo |
 | 04/12 | T04| Alteração dos nomes em camelCase no firebase | Aline |
 | 06/12 | T04 | Alteração de alguns nomes de variáveis, de arquivos e de pastas | Thaís |
 | 06/12 | T04 | Revisão e aprovação do [Pull Request](https://github.com/thaisclxt/proj-sist-2021-2/pull/39) | Thaís |
