@@ -220,7 +220,7 @@ Integrantes:
   - [X] T05 - Corrigir o campo de **busca** na _home page_ e corrigir a implementação de **categorias**. Ao selecionar uma categoria e clicar na logo do projeto, deve mostrar todos os restaurantes, sem uma categoria selecionada. ( @ericjonaicostasouza | 29/11 )
   - [X] T06 - Adicionar uma página para o **cupom** na tela inicial do restaurante (quando o restaurante faz login), para que o lojista possa escolher qual cupom adicionar ( @nathanmachado10 | 06/12 )
   - [ ] T07 - Implementar a página **avaliações** na tela inicial do restaurante (quando o restaurante faz login), para que o lojista possa visualizar suas avaliações - quantidade de estrelas e comentários ( @marcosantoniocostafilho1 | xx/xx )
-  - [ ] T08 - Mudança da fonte da fonte de categorias e correção da logo ( @alinerosealencarsantos | xx/xx)
+  - [X] T08 - Mudança da fonte da fonte de categorias e correção da logo ( @alinerosealencarsantos | 06/12)
 
 
 ### Cronograma de atividades RW01
