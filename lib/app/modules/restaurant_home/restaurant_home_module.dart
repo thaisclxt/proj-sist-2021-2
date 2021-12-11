@@ -1,4 +1,5 @@
 import 'package:pscomidas/app/modules/restaurant_home/pages/avaliations/avaliations_page.dart';
+import 'package:pscomidas/app/modules/restaurant_home/pages/cupons/cupons_page.dart';
 import 'package:pscomidas/app/modules/restaurant_home/pages/orders/orders_page.dart';
 import 'package:pscomidas/app/modules/restaurant_home/pages/plans/restaurant_plan_page.dart';
 import 'package:pscomidas/app/modules/restaurant_home/pages/product/product_page.dart';
@@ -19,8 +20,12 @@ class RestaurantHomeModule extends Module {
                   child: (context, args) => const OrdersPage()),
               ChildRoute(AvaliationsPage.routeName,
                   child: (context, args) => const AvaliationsPage()),
+              ChildRoute(CupomPage.routeName,
+                  child: (context, args) => const CupomPage()),
               ChildRoute(RestaurantPlanPage.routeName,
                   child: (context, args) => const RestaurantPlanPage()),
+              ChildRoute('/',
+                  child: (context, args) => const RestaurantHomePage()),
             ]),
       ];
 }

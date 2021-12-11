@@ -1,4 +1,6 @@
-class Restaurant {
+import 'package:pscomidas/app/global/models/enums/filter.dart';
+
+class Restaurant implements Exception {
   final String restaurantId;
   final double? avaliation;
   final String category;
@@ -6,7 +8,7 @@ class Restaurant {
   final double deliveryPrice;
   final String deliveryPlan;
   final double distance;
-  final String estimatedDelivery;
+  final String prepareTime;
   final String phone;
   final String image;
   final bool isChampion;
@@ -31,7 +33,7 @@ class Restaurant {
     this.cupom,
     required this.deliveryPrice,
     required this.distance,
-    required this.estimatedDelivery,
+    required this.prepareTime,
     required this.deliveryPlan,
     required this.phone,
     required this.image,
@@ -50,25 +52,30 @@ class Restaurant {
     required this.number,
     required this.complement,
   });
+//pegando os dados do servidor
+
+  static _throw() {
+    throw 'Null value exception';
+  }
 
   static Restaurant fromMap(id, Map<String, dynamic> map) {
     return Restaurant(
       id,
       avaliation: map['avaliation'],
-      category: map['category'] ?? '',
+      category: map['category'] ?? _throw(),
       cupom: map['cupom'],
-      deliveryPrice: map['delivery_price'],
-      deliveryPlan: map['delivery_plan'] ?? '',
-      distance: map['distance'],
-      estimatedDelivery: map['estimated_delivery'] ?? '',
-      phone: map['phone_restaurant'] ?? '',
-      image: map['image'] ?? '',
-      isChampion: map['isChampion'],
-      orders: map['orders'],
-      socialName: map['social_name'] ?? '',
-      nameOwner: map['name_Owner'] ?? '',
-      phoneOwner: map['phone_Owner'] ?? '',
-      emailOwner: map['email_Owner'] ?? '',
+      deliveryPrice: map['deliveryPrice'],
+      deliveryPlan: map['deliveryPlan'] ?? 'Plano Entrega',
+      distance: map['distance'] ?? _throw(),
+      prepareTime: map['prepareTime'] ?? _throw(),
+      phone: map['phoneRestaurant'] ?? '',
+      image: map['image'] ?? _throw(),
+      isChampion: map['isChampion'] ?? false,
+      orders: map['orders'] ?? _throw(),
+      socialName: map['socialName'] ?? _throw(),
+      nameOwner: map['nameOwner'] ?? '',
+      phoneOwner: map['phoneOwner'] ?? '',
+      emailOwner: map['emailOwner'] ?? '',
       password: map['password'] ?? '',
       cep: map['CEP'] ?? '',
       city: map['city'] ?? '',
@@ -78,5 +85,26 @@ class Restaurant {
       number: map['number'] ?? '',
       complement: map['complement'] ?? '',
     );
+  }
+
+  getByFilter(FilterType filter) {
+    switch (filter) {
+      case FilterType.avaliation:
+        return -(avaliation ?? 0);
+      case FilterType.freeShipping:
+        return deliveryPrice;
+      case FilterType.discountCoupon:
+        if (cupom == null) {
+          return 999;
+        }
+        if (cupom!['tipo'] == 'entrega_gratis') {
+          return -999;
+        }
+        return -cupom!['valor'];
+      case FilterType.shortestDistance:
+        return distance;
+      default:
+        return socialName;
+    }
   }
 }
