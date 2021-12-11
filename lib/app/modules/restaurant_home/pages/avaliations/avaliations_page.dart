@@ -2,6 +2,7 @@ import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter_mobx/flutter_mobx.dart';
 import 'package:flutter_modular/flutter_modular.dart';
 import 'package:flutter/material.dart';
+import 'package:pscomidas/app/global/utils/schemas.dart';
 import 'package:pscomidas/app/modules/restaurant_home/restaurant_home_store.dart';
 import 'service/avaliation_service.dart';
 import 'service/avaliation_service_firestore.dart';
@@ -50,7 +51,7 @@ class AvaliationsPageState extends State<AvaliationsPage> {
                   SingleChildScrollView(
                     child: SizedBox(
                       width: screen.width * .8,
-                      height: 500,
+                      height: screen.height * .5,
                       child: ListView.builder(
                           itemCount: docsSize,
                           itemBuilder: (context, index) {
@@ -101,7 +102,7 @@ class AvaliationsPageState extends State<AvaliationsPage> {
               );
             } else {
               return const Center(
-                child: CircularProgressIndicator(),
+                child: CircularProgressIndicator(color: secondaryColor),
               );
             }
           });
